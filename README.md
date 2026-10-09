@@ -3,7 +3,7 @@
 本仓库保存原制作工作流、剧本、核验记录与制作 Skill。素材和成片以 Release 附件保存；原项目文件未重构。
 
 - [下载完整工程和素材归档（230 文件）](https://github.com/NakanoIchirou/-MV-/releases/tag/v25-archive)：`silicon-dream-mv-v25-complete.zip`，包含全部关键帧、逐镜视频、音频、成片及 FFmpeg 工具。
-- [下载 v25 完整成片](https://github.com/NakanoIchirou/-MV-/releases/tag/v25-archive)：`硅晶之梦-成片-v25.mp4`，1920 × 1080，60fps，108.866667 秒。
+- [下载 v25 完整成片](https://github.com/NakanoIchirou/-MV-/releases/tag/v25-archive)：`silicon-dream-mv-v25.mp4`，1920 × 1080，60fps，108.866667 秒。
 - [原制作与审片 Skill](project/skills/silicon-dream-mv/SKILL.md)
 - [现行工程定义](project/06_工程与核验/工程.json)
 - [重导出工具](project/06_工程与核验/reexport.py)
@@ -23,4 +23,4 @@ v25 已通过现有技术核验，仍为用户审阅版本，尚未投稿。上�
 
 成片 SHA-256：`5aac433236d3e54bcc8028ed9983b2eaa75057f2e89e802539875026317c1b7e`。
 
-完整 ZIP SHA-256：`83e98cb25ecf954e88f513c4a6e8e95e8f910c172bc8268192a62c95a2701af6`。Release 中提供 `SHA256SUMS.txt`。
+完整 ZIP SHA-256：`83e98cb25ecf954e88f513c4a6e8e95e8f910c172bc8268192a62c95a2701af6`。Release 中提供 `SHA256SUMS-v25.txt`。
