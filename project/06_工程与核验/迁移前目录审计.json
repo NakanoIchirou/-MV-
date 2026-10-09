@@ -1,0 +1,283 @@
+[
+  {
+    "root": "D:\\CodexProject\\MV",
+    "files": 36547,
+    "bytes": 13334777860,
+    "groups": [
+      {
+        "path": "D:\\CodexProject\\MV\\video-runtime",
+        "files": 34570,
+        "bytes": 10268101606
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\outputs",
+        "files": 915,
+        "bytes": 2998995180
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\hhtcx - Silicon Dreams（硅晶之梦，硅晶之梦主题曲）.mp3",
+        "files": 1,
+        "bytes": 15306120
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\edge-profile2",
+        "files": 242,
+        "bytes": 7055832
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\edge-profile",
+        "files": 242,
+        "bytes": 7055109
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\edge-profile-candidates3",
+        "files": 241,
+        "bytes": 7038967
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\原稿",
+        "files": 6,
+        "bytes": 6716837
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\work-v21",
+        "files": 216,
+        "bytes": 5049223
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\硅晶之梦-26M前后留白试听-v03.mp3",
+        "files": 1,
+        "bytes": 4357267
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\硅晶之梦.mp3",
+        "files": 1,
+        "bytes": 4197398
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\work",
+        "files": 75,
+        "bytes": 2073906
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-draft-01.png",
+        "files": 1,
+        "bytes": 1551400
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-draft-08.png",
+        "files": 1,
+        "bytes": 1341896
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-draft-02.png",
+        "files": 1,
+        "bytes": 576920
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-draft-05.png",
+        "files": 1,
+        "bytes": 551964
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-draft-03.png",
+        "files": 1,
+        "bytes": 546442
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-draft-06.png",
+        "files": 1,
+        "bytes": 545861
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-draft-04.png",
+        "files": 1,
+        "bytes": 542992
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-contact-draft.png",
+        "files": 1,
+        "bytes": 542731
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-draft-07.png",
+        "files": 1,
+        "bytes": 542244
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\svg-test-2.png",
+        "files": 1,
+        "bytes": 509827
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M8-clean-plate-draft.png",
+        "files": 1,
+        "bytes": 493472
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\crop-fr.png",
+        "files": 1,
+        "bytes": 451045
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\crop-bg.png",
+        "files": 1,
+        "bytes": 248736
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\m8-path-candidates.svg",
+        "files": 1,
+        "bytes": 159295
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\svg-test.png",
+        "files": 1,
+        "bytes": 89765
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\m8-path-candidates.png",
+        "files": 1,
+        "bytes": 71301
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\edge-profile-candidates2",
+        "files": 5,
+        "bytes": 33076
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\初稿.docx",
+        "files": 1,
+        "bytes": 13014
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\build_m8_draft.py",
+        "files": 1,
+        "bytes": 3562
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\repair_m3_frame7.py",
+        "files": 1,
+        "bytes": 2773
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\check-stopmotion-v20-page.py",
+        "files": 1,
+        "bytes": 1886
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\archive_audit.py",
+        "files": 1,
+        "bytes": 1775
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\M1-M12-幻灯片交付.md",
+        "files": 1,
+        "bytes": 1525
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\inspect_v20_frames.py",
+        "files": 1,
+        "bytes": 1317
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\inspect_m8_paths.py",
+        "files": 1,
+        "bytes": 965
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\make_m8_path_candidates.py",
+        "files": 1,
+        "bytes": 893
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\inspect_m8_paths2.py",
+        "files": 1,
+        "bytes": 832
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\work-content-location.json",
+        "files": 1,
+        "bytes": 744
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\probe-renderer.cjs",
+        "files": 1,
+        "bytes": 738
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\inspect_svg_layers.py",
+        "files": 1,
+        "bytes": 614
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\crop_m8.py",
+        "files": 1,
+        "bytes": 502
+      },
+      {
+        "path": "D:\\CodexProject\\MV\\edge-profile-candidates",
+        "files": 2,
+        "bytes": 308
+      }
+    ],
+    "skipped_reparse_points": [
+      "D:\\CodexProject\\MV\\video-runtime\\python\\cpython-3.10-windows-x86_64-none"
+    ],
+    "errors": []
+  },
+  {
+    "root": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-2",
+    "files": 8519,
+    "bytes": 664291455,
+    "groups": [
+      {
+        "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-2\\work",
+        "files": 8466,
+        "bytes": 523559846
+      },
+      {
+        "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs",
+        "files": 53,
+        "bytes": 140731609
+      }
+    ],
+    "skipped_reparse_points": [],
+    "errors": []
+  },
+  {
+    "root": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3",
+    "files": 306438,
+    "bytes": 118802685626,
+    "groups": [
+      {
+        "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\work",
+        "files": 280587,
+        "bytes": 109989853538
+      },
+      {
+        "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs",
+        "files": 4079,
+        "bytes": 6124089376
+      },
+      {
+        "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\remotion-m1-m4",
+        "files": 21470,
+        "bytes": 1984378478
+      },
+      {
+        "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\.cache",
+        "files": 11,
+        "bytes": 422220791
+      },
+      {
+        "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\.remotion",
+        "files": 291,
+        "bytes": 282143443
+      }
+    ],
+    "skipped_reparse_points": [
+      "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\work\\slideshow-v18\\m7-render\\node_modules"
+    ],
+    "errors": []
+  }
+]

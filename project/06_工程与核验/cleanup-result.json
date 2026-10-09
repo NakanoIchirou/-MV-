@@ -1,0 +1,224 @@
+{
+  "cleaned_roots": [
+    "D:\\CodexProject\\MV",
+    "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-2",
+    "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3"
+  ],
+  "success": true,
+  "failures": [],
+  "free_bytes_before": 286449500160,
+  "removed": [
+    {
+      "path": "D:\\CodexProject\\MV\\原稿",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\edge-profile",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\edge-profile-candidates",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\edge-profile-candidates2",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\edge-profile-candidates3",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\edge-profile2",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\outputs",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\video-runtime",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\work",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\work-v21",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\初稿.docx",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\硅晶之梦-26M前后留白试听-v03.mp3",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\硅晶之梦.mp3",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\archive_audit.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\archive_mv.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\build_m8_draft.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\check-stopmotion-v20-page.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\cleanup_mv.ps1",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\crop_m8.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\crop-bg.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\crop-fr.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\hhtcx - Silicon Dreams（硅晶之梦，硅晶之梦主题曲）.mp3",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\inspect_m8_paths.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\inspect_m8_paths2.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\inspect_svg_layers.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\inspect_v20_frames.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M1-M12-幻灯片交付.md",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-clean-plate-draft.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-contact-draft.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-draft-01.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-draft-02.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-draft-03.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-draft-04.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-draft-05.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-draft-06.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-draft-07.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\M8-draft-08.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\m8-path-candidates.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\m8-path-candidates.svg",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\make_m8_path_candidates.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\probe-renderer.cjs",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\repair_m3_frame7.py",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\svg-test-2.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\svg-test.png",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\MV\\work-content-location.json",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-2\\work",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\.cache",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\.remotion",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\remotion-m1-m4",
+      "removed": true
+    },
+    {
+      "path": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\work",
+      "removed": true
+    }
+  ],
+  "freed_bytes": 128948756480,
+  "archive": "D:\\CodexProject\\硅晶之梦MV",
+  "free_bytes_after": 415398256640,
+  "MV_directory_retained_empty": true
+}

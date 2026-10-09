@@ -1,0 +1,1151 @@
+{
+  "version": "v25-archive",
+  "files": [
+    {
+      "path": "01_剧本/原始26M分镜定义.json",
+      "bytes": 34386,
+      "sha256": "f176769672680e21f7a9b25dc8948953803205415746d39291f513ec79ac1da9"
+    },
+    {
+      "path": "01_剧本/原始音乐剪辑初稿.docx",
+      "bytes": 13014,
+      "sha256": "cf6b05e17ce89a87b75a5ac7c237794d685d7409722d02066f4a7b127df32d2e"
+    },
+    {
+      "path": "01_剧本/原始音乐剪辑初稿.md",
+      "bytes": 553,
+      "sha256": "a2feea66cccd265617f956f8b9ad3ce78c7809625d6ae6dfc28923e64c40b3e9"
+    },
+    {
+      "path": "01_剧本/原始音乐剪辑对应表.md",
+      "bytes": 4029,
+      "sha256": "c813e5807affe2db84f4db20ef8b8a23f127857d86042500451fd1e161cd0664"
+    },
+    {
+      "path": "01_剧本/最终时间轴-v25.csv",
+      "bytes": 2555,
+      "sha256": "2af5b10e32e63d28f323d85347ebb27550c6fe6fa36c93206a08ae0cbee4fc62"
+    },
+    {
+      "path": "01_剧本/现行剪辑剧本-v25.md",
+      "bytes": 14380,
+      "sha256": "b9003e7212d0c19bbb7287719c9bc222dd3f3cc6f13482b1102b8233fb019183"
+    },
+    {
+      "path": "02_关键帧/关键帧索引.md",
+      "bytes": 8067,
+      "sha256": "3f818d3fa2e42df3a7fcf47a1303f080ee2f008a8de772608c0283964cba79b8"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M1-原画重绘-v09.png",
+      "bytes": 973676,
+      "sha256": "80075bdc5cefc001379844428a383d66bf73619b6fe20a635e0932e7d774c942"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M10-原画重绘-v09.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M11-原画重绘-v09.png",
+      "bytes": 1388257,
+      "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M12-原画重绘-v09.png",
+      "bytes": 1366488,
+      "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M13-原画重绘-v09.png",
+      "bytes": 1381722,
+      "sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M14-原画重绘-v09.png",
+      "bytes": 1483447,
+      "sha256": "7c71d42948bf68ddde9daa65e0ce64bd2cce6fce4778b5c179b4d181d9547727"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M15-A-远景生长-v08.png",
+      "bytes": 4825,
+      "sha256": "4a66a9379c9f24486f117b933cf6479ae32624f1b5568b2d146974cbfaa06171"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M16-C-远景生长-v08.png",
+      "bytes": 10715,
+      "sha256": "6d4e9636778e9e394ad3ab2efac99c473a928d56eb533520af4bc4fd04f4046a"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M17-C-远景生长-v08.png",
+      "bytes": 23212,
+      "sha256": "e2b514da2970bce759652d549056e9201791a26abf0a2e5884564bf24a2407a7"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M18-原画重绘-v10.png",
+      "bytes": 1065996,
+      "sha256": "cda2efe0547a380ef412277004470ed84a86035821f9aedb9cfd8a1262bbaa1e"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M19-原画重绘-v10.png",
+      "bytes": 773621,
+      "sha256": "a86c08761c0a6cb56f76e4be6fdcb38fabbbb9c9e5db7f0b61da39a4efeb9e78"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M2-原画重绘-v09.png",
+      "bytes": 993692,
+      "sha256": "9659b6b41aa58f4ba6d3750e6b4ad19c7bc361d5668bd7b8df16c793c64d49e0"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M20-原画重绘-v10.png",
+      "bytes": 560926,
+      "sha256": "f23e7970b5463d522fb98bb3c6f55137a681cf634d8b1234fad9494e3fde54d0"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M21-原画重绘-v10.png",
+      "bytes": 607937,
+      "sha256": "76c0e4e324491c4e5fafbdf03f07a84e7bc21af38ad89a653e7e65a3ed9d277b"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M22-原画重绘-v10.png",
+      "bytes": 662092,
+      "sha256": "f7f46bc4f558f3d7aa88c7ed27adfa5475424531d55ba66c11ddf85d757dd2f9"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M23-原画重绘-v10.png",
+      "bytes": 696668,
+      "sha256": "06b5a5b05435a28e5d29d355d72da1fb2c76cd197eab60611651b791d5d7683a"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M24-界面-v10.png",
+      "bytes": 134054,
+      "sha256": "9d11af09ab39648d26e4b086b3dae040fe74f3f527de9fdbe794efd3d044631a"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M25-界面-v10.png",
+      "bytes": 833776,
+      "sha256": "2a77c3dba37b270499027fa5d83c6b0254448ab1a03777e92da2dc6e84a2981f"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M26-界面-v10.png",
+      "bytes": 353352,
+      "sha256": "a25d8664d3e9618adc93021a37336594be72b86c817889597fdb553838d09fc9"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M3-原画重绘-v09.png",
+      "bytes": 940417,
+      "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M4-原画重绘-v09.png",
+      "bytes": 1451968,
+      "sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M5-原画重绘-v09.png",
+      "bytes": 1319932,
+      "sha256": "5f388e4aad22294e7352d922d7b6f4fb3e1c231e8b90bdf268186ace355ac5ca"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M6-原画重绘-v09.png",
+      "bytes": 1401075,
+      "sha256": "328f2dc396d73dde488c1e5ff44795a8e7339b7763089d23349381408ea8db99"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M7-原画重绘-v09.png",
+      "bytes": 1349828,
+      "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M8-原画重绘-v09.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/分镜基准/M9-原画重绘-v09.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/分镜基准/序言.png",
+      "bytes": 410315,
+      "sha256": "f8f0430f5257fd493bed1dce4a5f9a6d6dd0d9eb788635de88b97a9e0f766215"
+    },
+    {
+      "path": "02_关键帧/原始参考画/地铁.png",
+      "bytes": 1544901,
+      "sha256": "b06d017b6c88e6a3930468cf4403e3de4b943e5ae9ece53005a2bb59d92a80c1"
+    },
+    {
+      "path": "02_关键帧/原始参考画/地铁内.png",
+      "bytes": 1664056,
+      "sha256": "0ce08e0face494f88d0bb3b04bb470e85b019ee8f4066d5be25b04dbd50e1120"
+    },
+    {
+      "path": "02_关键帧/原始参考画/序言.png",
+      "bytes": 410315,
+      "sha256": "f8f0430f5257fd493bed1dce4a5f9a6d6dd0d9eb788635de88b97a9e0f766215"
+    },
+    {
+      "path": "02_关键帧/原始参考画/电脑.png",
+      "bytes": 1055829,
+      "sha256": "fc6a1bb88487237d1d47cefdacaaaf15499b970218d36f3e14f9a6d619ffe388"
+    },
+    {
+      "path": "02_关键帧/原始参考画/芯片.png",
+      "bytes": 740604,
+      "sha256": "d7f4dd81662308d5a27b7d4907d20b5e77a1d90c53ad0938b3e85c82aae7111b"
+    },
+    {
+      "path": "02_关键帧/原始参考画/过马路.png",
+      "bytes": 1301132,
+      "sha256": "a6e996ea58798fdae78f3339d85188b8a647e67aa3a0edd45fdc0fd469dab832"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M13/末帧.png",
+      "bytes": 1222277,
+      "sha256": "84486a5299e7c4b55f062a9a0237e6aed300be827bc01cc203d6db33b474d0cb"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M13/首帧.png",
+      "bytes": 978501,
+      "sha256": "06ba0308b383f9e8078b9986c94f2723cd2949bbb97c8b1e290816bcfc04611d"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M14/末帧.png",
+      "bytes": 8021,
+      "sha256": "e2d4de7baffad123fdb7711d6ee60e6598b7839d0409878362d5efc854684a55"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M14/首帧.png",
+      "bytes": 1013882,
+      "sha256": "993dfda6e1b3c9b9c393004e81bbc3a3df99a5a563f9264715b83a5de21c5443"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M15/末帧.png",
+      "bytes": 66314,
+      "sha256": "8dda30fdd0d8901d0262da5270adf1677237d428ecd838e3aa5e2eb221886d04"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M15/首帧.png",
+      "bytes": 7465,
+      "sha256": "8f6e96613d2ce41f1e32b75222fb07f6a57ae220dc43ffeeefb22e33d32d95b1"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M16/末帧.png",
+      "bytes": 224920,
+      "sha256": "0fa129197d60dfc87f5e03ac84703c8e4c6904a966ed87d255bf6a7e37589822"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M16/首帧.png",
+      "bytes": 54690,
+      "sha256": "75cbd96b0f63633b08b3243f2bd93c8f319dd0f15ad567c970e7abdb6bc85561"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M17/末帧.png",
+      "bytes": 782005,
+      "sha256": "aa1ac9a2e374b1abbbce3bab7b29bb73def9595a4a170acc6a31b1495fce1daa"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M17/首帧.png",
+      "bytes": 162775,
+      "sha256": "8e10f0a28d508b06cc58cc2dd94e173eb32b16982f17c7be9c4011615d5d7fc9"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M18/末帧.png",
+      "bytes": 440847,
+      "sha256": "b2dd7da739c59ec0f3e0cd62162e3313f240137c4b4679ec95da16676447b99e"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M18/首帧.png",
+      "bytes": 757848,
+      "sha256": "1c9bb206c4aac157ce2dc188a4f771dfa7cfc187a7bc71f666aaafaf5512ccdb"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M19/末帧.png",
+      "bytes": 288001,
+      "sha256": "b2b5619ddd08cb02de4c7fc30aa0a7bf769888265d1ba0e97751db7ce30ed43b"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M19/首帧.png",
+      "bytes": 432350,
+      "sha256": "a92672b08138d13b2473992de9d1ebe0c15cb9b86e7ed7b920888f55f27c0bb2"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M20/末帧.png",
+      "bytes": 320887,
+      "sha256": "078881ca2d09397638764bf9dca086692a071b4b9572f581abe2225fc40fe49b"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M20/首帧.png",
+      "bytes": 245385,
+      "sha256": "60a0d63809e0b62dcfbf9ada412f705a646cfd695acbf69eea2a6ba6cf8b88d5"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M21/末帧.png",
+      "bytes": 369499,
+      "sha256": "bffe76960cc61e8f467f4e127f5f0eda7fafed273ecd437dd91fcd5df34f034c"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M21/首帧.png",
+      "bytes": 311456,
+      "sha256": "75fa397fef702a09d9018e2ceb0f76401c02445133fbb79b6bfb6716e2df648c"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M22/末帧.png",
+      "bytes": 413000,
+      "sha256": "b215b40304e32775a4f77af86c97175c045e9a96a4c68f92dc37f211996f293e"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M22/首帧.png",
+      "bytes": 351814,
+      "sha256": "1c201465bfe3399630ba236d05cf60f6fd788d2d4fae1335d5531a97dd4465a0"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M23/末帧.png",
+      "bytes": 209902,
+      "sha256": "3b1d6c22f9f9bba01d8355ed3e198f92e9fd02402442b868e6122e10e198b517"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M23/首帧.png",
+      "bytes": 390975,
+      "sha256": "6c6eeaac7108427c51f5839d44c9564eb4776c4fafcc9f997cf3956c6a69284e"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M24/末帧.png",
+      "bytes": 666783,
+      "sha256": "5ea1cdefd85150ced128ef80389176d704940aa88c24471b24fa3de14b70e8a7"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M24/首帧.png",
+      "bytes": 174420,
+      "sha256": "36ccb0924589723a738ad7d09e42df517790270f8d7a43525c070a8488140646"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M25/末帧.png",
+      "bytes": 271752,
+      "sha256": "6c616747a9604da7612b6e30448472c58c21a0b8fe4fbcaf6b7d683113896ea5"
+    },
+    {
+      "path": "02_关键帧/后半段首尾/M25/首帧.png",
+      "bytes": 582846,
+      "sha256": "42b5215965be5a468746e73ce47ea030eae572eeaa9ad74af32a9a6c26a75eaf"
+    },
+    {
+      "path": "02_关键帧/定格画面/M1/image-01.png",
+      "bytes": 973676,
+      "sha256": "80075bdc5cefc001379844428a383d66bf73619b6fe20a635e0932e7d774c942"
+    },
+    {
+      "path": "02_关键帧/定格画面/M1/image-02.png",
+      "bytes": 937191,
+      "sha256": "2d7cc44d89ace631b2859eed2d133aeec55275504f5ef67cdafcda188c088441"
+    },
+    {
+      "path": "02_关键帧/定格画面/M1/image-03.png",
+      "bytes": 1036418,
+      "sha256": "10e4cbe8cc022d707f74373be021add2e16e97d3379770364f3ed604f873b57c"
+    },
+    {
+      "path": "02_关键帧/定格画面/M1/image-04.png",
+      "bytes": 1036418,
+      "sha256": "10e4cbe8cc022d707f74373be021add2e16e97d3379770364f3ed604f873b57c"
+    },
+    {
+      "path": "02_关键帧/定格画面/M1/image-05.png",
+      "bytes": 999661,
+      "sha256": "8dad00bc6bd2ea4547f5ad11140816c99fe884ac23ce0531b4dbca6dfa46bad2"
+    },
+    {
+      "path": "02_关键帧/定格画面/M1/image-06.png",
+      "bytes": 1006243,
+      "sha256": "7438a8795065b522555e24a1ff193ddf1d8e245dde6c60cd1595027f5fe19f49"
+    },
+    {
+      "path": "02_关键帧/定格画面/M1/image-07.png",
+      "bytes": 1006243,
+      "sha256": "7438a8795065b522555e24a1ff193ddf1d8e245dde6c60cd1595027f5fe19f49"
+    },
+    {
+      "path": "02_关键帧/定格画面/M1/image-08.png",
+      "bytes": 993692,
+      "sha256": "9659b6b41aa58f4ba6d3750e6b4ad19c7bc361d5668bd7b8df16c793c64d49e0"
+    },
+    {
+      "path": "02_关键帧/定格画面/M10/image-01.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "02_关键帧/定格画面/M10/image-02.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "02_关键帧/定格画面/M10/image-03.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "02_关键帧/定格画面/M10/image-04.png",
+      "bytes": 1388257,
+      "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05"
+    },
+    {
+      "path": "02_关键帧/定格画面/M10/image-05.png",
+      "bytes": 1388257,
+      "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05"
+    },
+    {
+      "path": "02_关键帧/定格画面/M10/image-06.png",
+      "bytes": 1388257,
+      "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05"
+    },
+    {
+      "path": "02_关键帧/定格画面/M10/image-07.png",
+      "bytes": 1388257,
+      "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05"
+    },
+    {
+      "path": "02_关键帧/定格画面/M10/image-08.png",
+      "bytes": 1388257,
+      "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05"
+    },
+    {
+      "path": "02_关键帧/定格画面/M11/image-01.png",
+      "bytes": 1388257,
+      "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05"
+    },
+    {
+      "path": "02_关键帧/定格画面/M11/image-02.png",
+      "bytes": 1473233,
+      "sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31"
+    },
+    {
+      "path": "02_关键帧/定格画面/M11/image-03.png",
+      "bytes": 1473233,
+      "sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31"
+    },
+    {
+      "path": "02_关键帧/定格画面/M11/image-04.png",
+      "bytes": 1473233,
+      "sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31"
+    },
+    {
+      "path": "02_关键帧/定格画面/M11/image-05.png",
+      "bytes": 1473233,
+      "sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31"
+    },
+    {
+      "path": "02_关键帧/定格画面/M11/image-06.png",
+      "bytes": 1366488,
+      "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab"
+    },
+    {
+      "path": "02_关键帧/定格画面/M11/image-07.png",
+      "bytes": 1366488,
+      "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab"
+    },
+    {
+      "path": "02_关键帧/定格画面/M11/image-08.png",
+      "bytes": 1366488,
+      "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab"
+    },
+    {
+      "path": "02_关键帧/定格画面/M12/image-01.png",
+      "bytes": 1366488,
+      "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab"
+    },
+    {
+      "path": "02_关键帧/定格画面/M12/image-02.png",
+      "bytes": 1407103,
+      "sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b"
+    },
+    {
+      "path": "02_关键帧/定格画面/M12/image-03.png",
+      "bytes": 1407103,
+      "sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b"
+    },
+    {
+      "path": "02_关键帧/定格画面/M12/image-04.png",
+      "bytes": 1407103,
+      "sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b"
+    },
+    {
+      "path": "02_关键帧/定格画面/M12/image-05.png",
+      "bytes": 1407103,
+      "sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b"
+    },
+    {
+      "path": "02_关键帧/定格画面/M12/image-06.png",
+      "bytes": 1381722,
+      "sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde"
+    },
+    {
+      "path": "02_关键帧/定格画面/M12/image-07.png",
+      "bytes": 1381722,
+      "sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde"
+    },
+    {
+      "path": "02_关键帧/定格画面/M12/image-08.png",
+      "bytes": 1381722,
+      "sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde"
+    },
+    {
+      "path": "02_关键帧/定格画面/M2/image-01.png",
+      "bytes": 993692,
+      "sha256": "9659b6b41aa58f4ba6d3750e6b4ad19c7bc361d5668bd7b8df16c793c64d49e0"
+    },
+    {
+      "path": "02_关键帧/定格画面/M2/image-02.png",
+      "bytes": 1220980,
+      "sha256": "7aaa8173d2ce49fcec34510cb7801adf2ee7bc53f9580def3b95c81c709058fb"
+    },
+    {
+      "path": "02_关键帧/定格画面/M2/image-03.png",
+      "bytes": 1220980,
+      "sha256": "7aaa8173d2ce49fcec34510cb7801adf2ee7bc53f9580def3b95c81c709058fb"
+    },
+    {
+      "path": "02_关键帧/定格画面/M2/image-04.png",
+      "bytes": 1123968,
+      "sha256": "71819c0e85d9c0b9b8d6090b9d7e48de0b2c8aa046536ef383d59b6a1e8cad94"
+    },
+    {
+      "path": "02_关键帧/定格画面/M2/image-05.png",
+      "bytes": 1123968,
+      "sha256": "71819c0e85d9c0b9b8d6090b9d7e48de0b2c8aa046536ef383d59b6a1e8cad94"
+    },
+    {
+      "path": "02_关键帧/定格画面/M2/image-06.png",
+      "bytes": 940417,
+      "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72"
+    },
+    {
+      "path": "02_关键帧/定格画面/M2/image-07.png",
+      "bytes": 940417,
+      "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72"
+    },
+    {
+      "path": "02_关键帧/定格画面/M2/image-08.png",
+      "bytes": 940417,
+      "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72"
+    },
+    {
+      "path": "02_关键帧/定格画面/M26/image-01.png",
+      "bytes": 239373,
+      "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+    },
+    {
+      "path": "02_关键帧/定格画面/M26/image-02.png",
+      "bytes": 239373,
+      "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+    },
+    {
+      "path": "02_关键帧/定格画面/M26/image-03.png",
+      "bytes": 239373,
+      "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+    },
+    {
+      "path": "02_关键帧/定格画面/M26/image-04.png",
+      "bytes": 239373,
+      "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+    },
+    {
+      "path": "02_关键帧/定格画面/M26/image-05.png",
+      "bytes": 239373,
+      "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+    },
+    {
+      "path": "02_关键帧/定格画面/M26/image-06.png",
+      "bytes": 239373,
+      "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+    },
+    {
+      "path": "02_关键帧/定格画面/M26/image-07.png",
+      "bytes": 6154,
+      "sha256": "3303057e19047fe994a3ce5a6a79f573a34e4de1e5d3654b6c1d7b1c8abd67f8"
+    },
+    {
+      "path": "02_关键帧/定格画面/M26/image-08.png",
+      "bytes": 6154,
+      "sha256": "3303057e19047fe994a3ce5a6a79f573a34e4de1e5d3654b6c1d7b1c8abd67f8"
+    },
+    {
+      "path": "02_关键帧/定格画面/M3/image-01.png",
+      "bytes": 940417,
+      "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72"
+    },
+    {
+      "path": "02_关键帧/定格画面/M3/image-02.png",
+      "bytes": 1464548,
+      "sha256": "e8933c282a2f3ba882d6d595e53c842e00378c77d9b2a3055d4d7ca9abe6dd39"
+    },
+    {
+      "path": "02_关键帧/定格画面/M3/image-03.png",
+      "bytes": 1464548,
+      "sha256": "e8933c282a2f3ba882d6d595e53c842e00378c77d9b2a3055d4d7ca9abe6dd39"
+    },
+    {
+      "path": "02_关键帧/定格画面/M3/image-04.png",
+      "bytes": 1482439,
+      "sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165"
+    },
+    {
+      "path": "02_关键帧/定格画面/M3/image-05.png",
+      "bytes": 1482439,
+      "sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165"
+    },
+    {
+      "path": "02_关键帧/定格画面/M3/image-06.png",
+      "bytes": 1482439,
+      "sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165"
+    },
+    {
+      "path": "02_关键帧/定格画面/M3/image-07.png",
+      "bytes": 1451968,
+      "sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810"
+    },
+    {
+      "path": "02_关键帧/定格画面/M3/image-08.png",
+      "bytes": 1451968,
+      "sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810"
+    },
+    {
+      "path": "02_关键帧/定格画面/M4/image-01.png",
+      "bytes": 1451968,
+      "sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810"
+    },
+    {
+      "path": "02_关键帧/定格画面/M4/image-02.png",
+      "bytes": 1443814,
+      "sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf"
+    },
+    {
+      "path": "02_关键帧/定格画面/M4/image-03.png",
+      "bytes": 1443814,
+      "sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf"
+    },
+    {
+      "path": "02_关键帧/定格画面/M4/image-04.png",
+      "bytes": 1443814,
+      "sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf"
+    },
+    {
+      "path": "02_关键帧/定格画面/M4/image-05.png",
+      "bytes": 1443814,
+      "sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf"
+    },
+    {
+      "path": "02_关键帧/定格画面/M4/image-06.png",
+      "bytes": 1336856,
+      "sha256": "b65d2f6dcaaee29f549ddba23777cef1f3d3bd53e35c4c0871194324957ac596"
+    },
+    {
+      "path": "02_关键帧/定格画面/M4/image-07.png",
+      "bytes": 1336856,
+      "sha256": "b65d2f6dcaaee29f549ddba23777cef1f3d3bd53e35c4c0871194324957ac596"
+    },
+    {
+      "path": "02_关键帧/定格画面/M4/image-08.png",
+      "bytes": 1335740,
+      "sha256": "14bff8dd1b1c5d615851fdc5985d394eeb61901a199ba96a526a32284176ed0a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M5/image-01.png",
+      "bytes": 1335740,
+      "sha256": "14bff8dd1b1c5d615851fdc5985d394eeb61901a199ba96a526a32284176ed0a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M5/image-02.png",
+      "bytes": 1319932,
+      "sha256": "5f388e4aad22294e7352d922d7b6f4fb3e1c231e8b90bdf268186ace355ac5ca"
+    },
+    {
+      "path": "02_关键帧/定格画面/M5/image-03.png",
+      "bytes": 1319932,
+      "sha256": "5f388e4aad22294e7352d922d7b6f4fb3e1c231e8b90bdf268186ace355ac5ca"
+    },
+    {
+      "path": "02_关键帧/定格画面/M5/image-04.png",
+      "bytes": 1219366,
+      "sha256": "775f3574ea82a9f43a6134122d0a02868498ebb0e6c9fcbd9b42d4f107c59c06"
+    },
+    {
+      "path": "02_关键帧/定格画面/M5/image-05.png",
+      "bytes": 1219366,
+      "sha256": "775f3574ea82a9f43a6134122d0a02868498ebb0e6c9fcbd9b42d4f107c59c06"
+    },
+    {
+      "path": "02_关键帧/定格画面/M5/image-06.png",
+      "bytes": 1219270,
+      "sha256": "662c7803393d05c67793b7776e80e7377d8b2f6b9a984b485254b0144e46141c"
+    },
+    {
+      "path": "02_关键帧/定格画面/M5/image-07.png",
+      "bytes": 1219270,
+      "sha256": "662c7803393d05c67793b7776e80e7377d8b2f6b9a984b485254b0144e46141c"
+    },
+    {
+      "path": "02_关键帧/定格画面/M5/image-08.png",
+      "bytes": 1219037,
+      "sha256": "819ea4cc7d969cb713f8ab8c57367203f01e52d99e35860920c722924eabd97b"
+    },
+    {
+      "path": "02_关键帧/定格画面/M6/image-01.png",
+      "bytes": 1219037,
+      "sha256": "819ea4cc7d969cb713f8ab8c57367203f01e52d99e35860920c722924eabd97b"
+    },
+    {
+      "path": "02_关键帧/定格画面/M6/image-02.png",
+      "bytes": 1401075,
+      "sha256": "328f2dc396d73dde488c1e5ff44795a8e7339b7763089d23349381408ea8db99"
+    },
+    {
+      "path": "02_关键帧/定格画面/M6/image-03.png",
+      "bytes": 1401075,
+      "sha256": "328f2dc396d73dde488c1e5ff44795a8e7339b7763089d23349381408ea8db99"
+    },
+    {
+      "path": "02_关键帧/定格画面/M6/image-04.png",
+      "bytes": 1295267,
+      "sha256": "e6338fe0144a3fc0d77a593a142c5b28650c0efc53cdd269596dd09e2916a76a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M6/image-05.png",
+      "bytes": 1295267,
+      "sha256": "e6338fe0144a3fc0d77a593a142c5b28650c0efc53cdd269596dd09e2916a76a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M6/image-06.png",
+      "bytes": 1294751,
+      "sha256": "f00c64d5cbf39bbd1196114b6554cca8fc0693f911a6549fbcb9f6f970fcf17d"
+    },
+    {
+      "path": "02_关键帧/定格画面/M6/image-07.png",
+      "bytes": 1294751,
+      "sha256": "f00c64d5cbf39bbd1196114b6554cca8fc0693f911a6549fbcb9f6f970fcf17d"
+    },
+    {
+      "path": "02_关键帧/定格画面/M6/image-08.png",
+      "bytes": 1349828,
+      "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9"
+    },
+    {
+      "path": "02_关键帧/定格画面/M7/image-01.png",
+      "bytes": 1349828,
+      "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9"
+    },
+    {
+      "path": "02_关键帧/定格画面/M7/image-02.png",
+      "bytes": 1349828,
+      "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9"
+    },
+    {
+      "path": "02_关键帧/定格画面/M7/image-03.png",
+      "bytes": 1349828,
+      "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9"
+    },
+    {
+      "path": "02_关键帧/定格画面/M7/image-04.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/定格画面/M7/image-05.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/定格画面/M7/image-06.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/定格画面/M7/image-07.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/定格画面/M7/image-08.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/定格画面/M8/image-01.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/定格画面/M8/image-02.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/定格画面/M8/image-03.png",
+      "bytes": 1599438,
+      "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e"
+    },
+    {
+      "path": "02_关键帧/定格画面/M8/image-04.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M8/image-05.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M8/image-06.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M8/image-07.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M8/image-08.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M9/image-01.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M9/image-02.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M9/image-03.png",
+      "bytes": 1375955,
+      "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a"
+    },
+    {
+      "path": "02_关键帧/定格画面/M9/image-04.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "02_关键帧/定格画面/M9/image-05.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "02_关键帧/定格画面/M9/image-06.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "02_关键帧/定格画面/M9/image-07.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "02_关键帧/定格画面/M9/image-08.png",
+      "bytes": 1812957,
+      "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1"
+    },
+    {
+      "path": "03_审片/clips/END.mp4",
+      "bytes": 135653,
+      "sha256": "037c62a8a56f3521fed2697817f7994b9946a456fc612f28d7ed6fccadf10078"
+    },
+    {
+      "path": "03_审片/clips/M1.mp4",
+      "bytes": 1444243,
+      "sha256": "441834bc7169711c4c42744eeffe4fc99cc37eb84a02f5c6c6e8740ef60175bc"
+    },
+    {
+      "path": "03_审片/clips/M10.mp4",
+      "bytes": 2602579,
+      "sha256": "9385244551352b89b548010c53bd159d022a12ae8b1764958cc984f723fcbe40"
+    },
+    {
+      "path": "03_审片/clips/M11.mp4",
+      "bytes": 2230433,
+      "sha256": "2a7395550de827b2541eef473205fb5fd3ae3f31d22caa6199d0b51979fd4f2c"
+    },
+    {
+      "path": "03_审片/clips/M12.mp4",
+      "bytes": 2279172,
+      "sha256": "ea0ac0a00916a803ef48639e87696eb5e4597a23e10e142e9633da56bba7e55a"
+    },
+    {
+      "path": "03_审片/clips/M13.mp4",
+      "bytes": 2494202,
+      "sha256": "c9b87972c980427bb67e88ac5ba1b5ad7fc9d98d8d394c845ebe54344ca098ae"
+    },
+    {
+      "path": "03_审片/clips/M14.mp4",
+      "bytes": 6110793,
+      "sha256": "082b20eb2eed452b9807919967798d8fc9ea228a44e56b0789b484be39d56107"
+    },
+    {
+      "path": "03_审片/clips/M15.mp4",
+      "bytes": 85757,
+      "sha256": "bc462bcf5fc0543c470e6193c3373d5b4c74e590327df70f6632c15516fe799b"
+    },
+    {
+      "path": "03_审片/clips/M16.mp4",
+      "bytes": 5669825,
+      "sha256": "ff04c6ab83f9509139de69f363255cc0e54d98d087dda2985ebe07ee08b13620"
+    },
+    {
+      "path": "03_审片/clips/M17.mp4",
+      "bytes": 11335490,
+      "sha256": "9b67fcdd6302479ebe97d1c7d6a79c8eb32caac9e19e03f5fe08f441779958a3"
+    },
+    {
+      "path": "03_审片/clips/M18.mp4",
+      "bytes": 6529420,
+      "sha256": "ee6d8623ca1ea2db82f5e6a3858657db2de6a9b119618919bf270d8d99f90435"
+    },
+    {
+      "path": "03_审片/clips/M19.mp4",
+      "bytes": 2926848,
+      "sha256": "5e86bb18f58ca66021998cf9a136e4602da68ab36c84c44b0bfeadd67c8864a4"
+    },
+    {
+      "path": "03_审片/clips/M2.mp4",
+      "bytes": 1523339,
+      "sha256": "d58caedfd6e55e6a6b1598c7188d71b674b5d77d02efad8b13aaf65138f1181b"
+    },
+    {
+      "path": "03_审片/clips/M20.mp4",
+      "bytes": 3609379,
+      "sha256": "0e1a4590c938284b203d15f4d4e7cef473e00fdea82e19ee7243756fad849a35"
+    },
+    {
+      "path": "03_审片/clips/M21.mp4",
+      "bytes": 4044737,
+      "sha256": "387bdc3caf584351baf678614b3113212d6d73e17c839aae1b6a155b5033b84e"
+    },
+    {
+      "path": "03_审片/clips/M22.mp4",
+      "bytes": 4364574,
+      "sha256": "c9b8f466e2d72ba4f77dd1c5428de56338e6d1756fc9bb51cc6a0d0c974d853d"
+    },
+    {
+      "path": "03_审片/clips/M23.mp4",
+      "bytes": 3639834,
+      "sha256": "8fdd9faa52619a7bfef75d9fb99fd20feda6673b1652bfc7fa0a68554ae200ad"
+    },
+    {
+      "path": "03_审片/clips/M24.mp4",
+      "bytes": 7013397,
+      "sha256": "b4cc61774fce382c8f3e165d4945894ef4e3862049689a60842e08e925da3c3a"
+    },
+    {
+      "path": "03_审片/clips/M25.mp4",
+      "bytes": 4146879,
+      "sha256": "377a4ab9c024ed863c6141121487aed84419d9fd280b51cc1b12b7b4ce8b787d"
+    },
+    {
+      "path": "03_审片/clips/M26.mp4",
+      "bytes": 492115,
+      "sha256": "4b1ebd6729f5f06d7961e11e7d732ea37d8884688d7066205c704743b0f432f0"
+    },
+    {
+      "path": "03_审片/clips/M3.mp4",
+      "bytes": 2332817,
+      "sha256": "6e29a181d90173b1d6bebb12f1b0b4cd64cbbb643ecd430534338adf1bb08d0b"
+    },
+    {
+      "path": "03_审片/clips/M4.mp4",
+      "bytes": 2446775,
+      "sha256": "49b3ebefea9c12df9f542aa797980029d7aa4a35442066b6b676f610b6354fd7"
+    },
+    {
+      "path": "03_审片/clips/M5.mp4",
+      "bytes": 2309205,
+      "sha256": "f974b5fc213e507af6c9cdd8589058e201387aaf7d73b18776c8ea0be6797e04"
+    },
+    {
+      "path": "03_审片/clips/M6.mp4",
+      "bytes": 2363059,
+      "sha256": "0789cf9a95d25826a74e1a126730e9ac69e32e9382204cd3813019a97b888288"
+    },
+    {
+      "path": "03_审片/clips/M7.mp4",
+      "bytes": 2936150,
+      "sha256": "fbfe58b6f292e2d1c94f9cbaf41fcb219cda289dc19cc3c322c5851d13760178"
+    },
+    {
+      "path": "03_审片/clips/M8.mp4",
+      "bytes": 2661652,
+      "sha256": "d24ae6611f8f9a4b8e31e306d72b38c39fe90137e43cfe3cdf2f7476ed7b6d2c"
+    },
+    {
+      "path": "03_审片/clips/M9.mp4",
+      "bytes": 3093702,
+      "sha256": "9f644f732695c3d36b4139fe7322f7dc8672139cdd3082dd9e9d3b88c53331f2"
+    },
+    {
+      "path": "03_审片/clips/OPEN.mp4",
+      "bytes": 95356,
+      "sha256": "4771df8ab4c0a3385bf2206ad2db4a0fd72de95573dcc3d1cb56d5cf28d34d46"
+    },
+    {
+      "path": "03_审片/硅晶之梦-逐M审片.html",
+      "bytes": 33328,
+      "sha256": "657eb4678a0564b8d766f975c9c3ef6a187c33a9a86122eed32603da107ce6b0"
+    },
+    {
+      "path": "04_成片/硅晶之梦-M1-M12-v25.mp4",
+      "bytes": 28257879,
+      "sha256": "5513db0079d15bb67f740fa864a928dbf4c250adc79f64bfb86964b0c685b1a0"
+    },
+    {
+      "path": "04_成片/硅晶之梦-成片-v25.mp4",
+      "bytes": 37590140,
+      "sha256": "5aac433236d3e54bcc8028ed9983b2eaa75057f2e89e802539875026317c1b7e"
+    },
+    {
+      "path": "05_音频/原剪辑音乐-v04.wav",
+      "bytes": 38410820,
+      "sha256": "73dd89116defcc148948a8b72e4d251c1089c1deffda5372db09166089386932"
+    },
+    {
+      "path": "05_音频/原曲/hhtcx - Silicon Dreams（硅晶之梦，硅晶之梦主题曲）.mp3",
+      "bytes": 15306120,
+      "sha256": "823c6523f73ec5ba0c19db73a229a08d07773c0348a65a4fb3209176d74f350f"
+    },
+    {
+      "path": "05_音频/原曲/硅晶之梦.mp3",
+      "bytes": 4197398,
+      "sha256": "3e7a2c86c1472bdcd62a8b34fd40fec001dc8b2413c67d2218e49c02b737e54f"
+    },
+    {
+      "path": "05_音频/最终混音-含鼠标点击.wav",
+      "bytes": 41807692,
+      "sha256": "9c0d88c607e84d74ec95d1aea8d1f68a15234dd3d9170b59648a44b97668f634"
+    },
+    {
+      "path": "05_音频/鼠标点击.wav",
+      "bytes": 36572,
+      "sha256": "f56bb3e8cff15961e24cefa128924260302c9cbaf991ca22e7037e92ee5861bd"
+    },
+    {
+      "path": "06_工程与核验/cleanup-progress.json",
+      "bytes": 5402,
+      "sha256": "148636a096104824e4b25da25a2541e114615a1bb9f73fdbd77aa5eb22ae94f4"
+    },
+    {
+      "path": "06_工程与核验/cleanup-result.json",
+      "bytes": 5841,
+      "sha256": "71229647ab23a479d60a09ccaa425581aa433e89cf094d95ad9d6a62d8610fcb"
+    },
+    {
+      "path": "06_工程与核验/M4倒计时核验.json",
+      "bytes": 217,
+      "sha256": "d73f3821644809a94031155228a846db122a37fea9a809ed26694d3232e7595e"
+    },
+    {
+      "path": "06_工程与核验/M4导出画面核验.json",
+      "bytes": 269,
+      "sha256": "22f33c7953b37f8d966b644c79800bd189290efc7bb2f13f08ff09f607c11d1a"
+    },
+    {
+      "path": "06_工程与核验/reexport.py",
+      "bytes": 4907,
+      "sha256": "51348945e95462be0f516cb73ad6bb411efa89202a9d0290a2dba247f7ba95bd"
+    },
+    {
+      "path": "06_工程与核验/seal_archive.py",
+      "bytes": 911,
+      "sha256": "37dd91c57852fd79341f53fbb0469b7d00721669e23180ad9e7ec318104b9aab"
+    },
+    {
+      "path": "06_工程与核验/verify_archive.py",
+      "bytes": 1686,
+      "sha256": "6a1a73392869ad91ac79f4b8e0dbda694b2ad37bdc5a928840d9da5c269bfc8c"
+    },
+    {
+      "path": "06_工程与核验/工具/ffmpeg.exe",
+      "bytes": 87638016,
+      "sha256": "2ce797a0f88d7f067180338fb227f7b1928ea727bd9a4d7a1d022f7c52af71a3"
+    },
+    {
+      "path": "06_工程与核验/工程.json",
+      "bytes": 56020,
+      "sha256": "135a48e6af2c7b76e68ddf12c5ab149f5d05049ec32095caee359979748d61fb"
+    },
+    {
+      "path": "06_工程与核验/投稿版核验.json",
+      "bytes": 494,
+      "sha256": "fd07f32b21b358cc918399afc64ce6159f18f0d7fa4408e1101510eb635761a2"
+    },
+    {
+      "path": "06_工程与核验/校验归档.ps1",
+      "bytes": 600,
+      "sha256": "2ec51788ed8b8dbe9bf1611e5a76a139c08c8f82988b942b711f6699a266823b"
+    },
+    {
+      "path": "06_工程与核验/清理范围.md",
+      "bytes": 1306,
+      "sha256": "316209fa0a43518f85961b6d125d7ac823e95039ee42d5980769479e2c34fb40"
+    },
+    {
+      "path": "06_工程与核验/源文件对应表.json",
+      "bytes": 53122,
+      "sha256": "ee6aeaa42828ca62a7961a8b457095d05fa99acec1ed0593cea648daa6afd225"
+    },
+    {
+      "path": "06_工程与核验/画面核对/frame-6351.png",
+      "bytes": 215689,
+      "sha256": "d9ca001d79d2371568c890e09bed3cab0f5e03e854e6dd5d1da00efa415c1e79"
+    },
+    {
+      "path": "06_工程与核验/画面核对/frame-6352.png",
+      "bytes": 6189,
+      "sha256": "a01d7df43e68dbeb6cc04efe25ee3cb3b633dacfede0b7a5b52b3e6d79ccec1b"
+    },
+    {
+      "path": "06_工程与核验/画面核对/frame-6442.png",
+      "bytes": 141950,
+      "sha256": "1a9e9214fcd2a453b64c3aaf7be429ff6cad27dc89e965bc1b5d6d7f95864ccc"
+    },
+    {
+      "path": "06_工程与核验/画面核对/M4实际倒计时核对.png",
+      "bytes": 44543,
+      "sha256": "8c59eb81b4a57e2c1e5a03476a140758a7f7f4a17c7ad6699a53e57ebd2f7ecb"
+    },
+    {
+      "path": "06_工程与核验/迁移前目录审计.json",
+      "bytes": 7521,
+      "sha256": "df1dcfcb492bf654711bf5d5b8a584cefd0b32f71cc9c6e9354824675c40a405"
+    },
+    {
+      "path": "06_工程与核验/重导出.ps1",
+      "bytes": 613,
+      "sha256": "26e6c7001bb1cdd55ee00b768c8d0332df283e0fcac0dad5237f9a8f6dbf4211"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2647,
+      "sha256": "5dc2db1aa85683309e0739c992ddaff3ea80b6465b73f983627ead22e1f12d28"
+    },
+    {
+      "path": "skills/silicon-dream-mv/references/lessons.md",
+      "bytes": 3583,
+      "sha256": "3eb8a9825ad22a2b7bd83a7530792c16c2274e534129276c612924075042923d"
+    },
+    {
+      "path": "skills/silicon-dream-mv/references/project-v25.md",
+      "bytes": 2690,
+      "sha256": "7dd12bb93c561e60087188c2c9e7acdcc95f064b2b0f665740652fdeb03edf7d"
+    },
+    {
+      "path": "skills/silicon-dream-mv/SKILL.md",
+      "bytes": 7917,
+      "sha256": "229868e75eb594474ab0d2ab02b10ed9144122cceb75ff92f6fbdfada4ca8c1e"
+    }
+  ],
+  "total_bytes": 520119865
+}

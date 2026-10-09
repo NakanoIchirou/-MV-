@@ -1,0 +1,16 @@
+{
+  "technical_pass": true,
+  "user_selected": false,
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "video_codec": "H264 High 4.2",
+  "audio_codec": "AAC",
+  "frames": 6532,
+  "duration_seconds": 108.86666666666666,
+  "last_M26_second_all_black": true,
+  "black_and_click_start_seconds": 105.86666666666666,
+  "original_END_starts_seconds": 106.86666666666666,
+  "reference_psnr_db": 48.165996,
+  "sha256": "5aac433236d3e54bcc8028ed9983b2eaa75057f2e89e802539875026317c1b7e"
+}

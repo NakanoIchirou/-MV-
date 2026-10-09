@@ -1,0 +1,1094 @@
+[
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\硅晶之梦-1080p60-投稿审阅-v25.mp4",
+    "archived": "04_成片/硅晶之梦-成片-v25.mp4",
+    "sha256": "5aac433236d3e54bcc8028ed9983b2eaa75057f2e89e802539875026317c1b7e",
+    "bytes": 37590140
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\硅晶之梦-M1-M12-修改版-v25.mp4",
+    "archived": "04_成片/硅晶之梦-M1-M12-v25.mp4",
+    "sha256": "5513db0079d15bb67f740fa864a928dbf4c250adc79f64bfb86964b0c685b1a0",
+    "bytes": 28257879
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\OPEN.mp4",
+    "archived": "03_审片/clips/OPEN.mp4",
+    "sha256": "4771df8ab4c0a3385bf2206ad2db4a0fd72de95573dcc3d1cb56d5cf28d34d46",
+    "bytes": 95356
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M1.mp4",
+    "archived": "03_审片/clips/M1.mp4",
+    "sha256": "441834bc7169711c4c42744eeffe4fc99cc37eb84a02f5c6c6e8740ef60175bc",
+    "bytes": 1444243
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M1\\image-01.png",
+    "archived": "02_关键帧/定格画面/M1/image-01.png",
+    "sha256": "80075bdc5cefc001379844428a383d66bf73619b6fe20a635e0932e7d774c942",
+    "bytes": 973676
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M1\\image-02.png",
+    "archived": "02_关键帧/定格画面/M1/image-02.png",
+    "sha256": "2d7cc44d89ace631b2859eed2d133aeec55275504f5ef67cdafcda188c088441",
+    "bytes": 937191
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M1\\image-03.png",
+    "archived": "02_关键帧/定格画面/M1/image-03.png",
+    "sha256": "10e4cbe8cc022d707f74373be021add2e16e97d3379770364f3ed604f873b57c",
+    "bytes": 1036418
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M1\\image-04.png",
+    "archived": "02_关键帧/定格画面/M1/image-04.png",
+    "sha256": "10e4cbe8cc022d707f74373be021add2e16e97d3379770364f3ed604f873b57c",
+    "bytes": 1036418
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M1\\image-05.png",
+    "archived": "02_关键帧/定格画面/M1/image-05.png",
+    "sha256": "8dad00bc6bd2ea4547f5ad11140816c99fe884ac23ce0531b4dbca6dfa46bad2",
+    "bytes": 999661
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M1\\image-06.png",
+    "archived": "02_关键帧/定格画面/M1/image-06.png",
+    "sha256": "7438a8795065b522555e24a1ff193ddf1d8e245dde6c60cd1595027f5fe19f49",
+    "bytes": 1006243
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M1\\image-07.png",
+    "archived": "02_关键帧/定格画面/M1/image-07.png",
+    "sha256": "7438a8795065b522555e24a1ff193ddf1d8e245dde6c60cd1595027f5fe19f49",
+    "bytes": 1006243
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M1\\image-08.png",
+    "archived": "02_关键帧/定格画面/M1/image-08.png",
+    "sha256": "9659b6b41aa58f4ba6d3750e6b4ad19c7bc361d5668bd7b8df16c793c64d49e0",
+    "bytes": 993692
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M2.mp4",
+    "archived": "03_审片/clips/M2.mp4",
+    "sha256": "d58caedfd6e55e6a6b1598c7188d71b674b5d77d02efad8b13aaf65138f1181b",
+    "bytes": 1523339
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M2\\image-01.png",
+    "archived": "02_关键帧/定格画面/M2/image-01.png",
+    "sha256": "9659b6b41aa58f4ba6d3750e6b4ad19c7bc361d5668bd7b8df16c793c64d49e0",
+    "bytes": 993692
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M2\\image-02.png",
+    "archived": "02_关键帧/定格画面/M2/image-02.png",
+    "sha256": "7aaa8173d2ce49fcec34510cb7801adf2ee7bc53f9580def3b95c81c709058fb",
+    "bytes": 1220980
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M2\\image-03.png",
+    "archived": "02_关键帧/定格画面/M2/image-03.png",
+    "sha256": "7aaa8173d2ce49fcec34510cb7801adf2ee7bc53f9580def3b95c81c709058fb",
+    "bytes": 1220980
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M2\\image-04.png",
+    "archived": "02_关键帧/定格画面/M2/image-04.png",
+    "sha256": "71819c0e85d9c0b9b8d6090b9d7e48de0b2c8aa046536ef383d59b6a1e8cad94",
+    "bytes": 1123968
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M2\\image-05.png",
+    "archived": "02_关键帧/定格画面/M2/image-05.png",
+    "sha256": "71819c0e85d9c0b9b8d6090b9d7e48de0b2c8aa046536ef383d59b6a1e8cad94",
+    "bytes": 1123968
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M2\\image-06.png",
+    "archived": "02_关键帧/定格画面/M2/image-06.png",
+    "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+    "bytes": 940417
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M2\\image-07.png",
+    "archived": "02_关键帧/定格画面/M2/image-07.png",
+    "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+    "bytes": 940417
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M2\\image-08.png",
+    "archived": "02_关键帧/定格画面/M2/image-08.png",
+    "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+    "bytes": 940417
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M3.mp4",
+    "archived": "03_审片/clips/M3.mp4",
+    "sha256": "6e29a181d90173b1d6bebb12f1b0b4cd64cbbb643ecd430534338adf1bb08d0b",
+    "bytes": 2332817
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M3\\image-01.png",
+    "archived": "02_关键帧/定格画面/M3/image-01.png",
+    "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+    "bytes": 940417
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M3\\image-02.png",
+    "archived": "02_关键帧/定格画面/M3/image-02.png",
+    "sha256": "e8933c282a2f3ba882d6d595e53c842e00378c77d9b2a3055d4d7ca9abe6dd39",
+    "bytes": 1464548
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M3\\image-03.png",
+    "archived": "02_关键帧/定格画面/M3/image-03.png",
+    "sha256": "e8933c282a2f3ba882d6d595e53c842e00378c77d9b2a3055d4d7ca9abe6dd39",
+    "bytes": 1464548
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M3\\image-04.png",
+    "archived": "02_关键帧/定格画面/M3/image-04.png",
+    "sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165",
+    "bytes": 1482439
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M3\\image-05.png",
+    "archived": "02_关键帧/定格画面/M3/image-05.png",
+    "sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165",
+    "bytes": 1482439
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M3\\image-06.png",
+    "archived": "02_关键帧/定格画面/M3/image-06.png",
+    "sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165",
+    "bytes": 1482439
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M3\\image-07.png",
+    "archived": "02_关键帧/定格画面/M3/image-07.png",
+    "sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810",
+    "bytes": 1451968
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M3\\image-08.png",
+    "archived": "02_关键帧/定格画面/M3/image-08.png",
+    "sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810",
+    "bytes": 1451968
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M4.mp4",
+    "archived": "03_审片/clips/M4.mp4",
+    "sha256": "49b3ebefea9c12df9f542aa797980029d7aa4a35442066b6b676f610b6354fd7",
+    "bytes": 2446775
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M4\\image-01.png",
+    "archived": "02_关键帧/定格画面/M4/image-01.png",
+    "sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810",
+    "bytes": 1451968
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M4\\image-02.png",
+    "archived": "02_关键帧/定格画面/M4/image-02.png",
+    "sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf",
+    "bytes": 1443814
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M4\\image-03.png",
+    "archived": "02_关键帧/定格画面/M4/image-03.png",
+    "sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf",
+    "bytes": 1443814
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M4\\image-04.png",
+    "archived": "02_关键帧/定格画面/M4/image-04.png",
+    "sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf",
+    "bytes": 1443814
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M4\\image-05.png",
+    "archived": "02_关键帧/定格画面/M4/image-05.png",
+    "sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf",
+    "bytes": 1443814
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M4\\image-06.png",
+    "archived": "02_关键帧/定格画面/M4/image-06.png",
+    "sha256": "b65d2f6dcaaee29f549ddba23777cef1f3d3bd53e35c4c0871194324957ac596",
+    "bytes": 1336856
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M4\\image-07.png",
+    "archived": "02_关键帧/定格画面/M4/image-07.png",
+    "sha256": "b65d2f6dcaaee29f549ddba23777cef1f3d3bd53e35c4c0871194324957ac596",
+    "bytes": 1336856
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M4\\image-08.png",
+    "archived": "02_关键帧/定格画面/M4/image-08.png",
+    "sha256": "14bff8dd1b1c5d615851fdc5985d394eeb61901a199ba96a526a32284176ed0a",
+    "bytes": 1335740
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M5.mp4",
+    "archived": "03_审片/clips/M5.mp4",
+    "sha256": "f974b5fc213e507af6c9cdd8589058e201387aaf7d73b18776c8ea0be6797e04",
+    "bytes": 2309205
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M5\\image-01.png",
+    "archived": "02_关键帧/定格画面/M5/image-01.png",
+    "sha256": "14bff8dd1b1c5d615851fdc5985d394eeb61901a199ba96a526a32284176ed0a",
+    "bytes": 1335740
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M5\\image-02.png",
+    "archived": "02_关键帧/定格画面/M5/image-02.png",
+    "sha256": "5f388e4aad22294e7352d922d7b6f4fb3e1c231e8b90bdf268186ace355ac5ca",
+    "bytes": 1319932
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M5\\image-03.png",
+    "archived": "02_关键帧/定格画面/M5/image-03.png",
+    "sha256": "5f388e4aad22294e7352d922d7b6f4fb3e1c231e8b90bdf268186ace355ac5ca",
+    "bytes": 1319932
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M5\\image-04.png",
+    "archived": "02_关键帧/定格画面/M5/image-04.png",
+    "sha256": "775f3574ea82a9f43a6134122d0a02868498ebb0e6c9fcbd9b42d4f107c59c06",
+    "bytes": 1219366
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M5\\image-05.png",
+    "archived": "02_关键帧/定格画面/M5/image-05.png",
+    "sha256": "775f3574ea82a9f43a6134122d0a02868498ebb0e6c9fcbd9b42d4f107c59c06",
+    "bytes": 1219366
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M5\\image-06.png",
+    "archived": "02_关键帧/定格画面/M5/image-06.png",
+    "sha256": "662c7803393d05c67793b7776e80e7377d8b2f6b9a984b485254b0144e46141c",
+    "bytes": 1219270
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M5\\image-07.png",
+    "archived": "02_关键帧/定格画面/M5/image-07.png",
+    "sha256": "662c7803393d05c67793b7776e80e7377d8b2f6b9a984b485254b0144e46141c",
+    "bytes": 1219270
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M5\\image-08.png",
+    "archived": "02_关键帧/定格画面/M5/image-08.png",
+    "sha256": "819ea4cc7d969cb713f8ab8c57367203f01e52d99e35860920c722924eabd97b",
+    "bytes": 1219037
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M6.mp4",
+    "archived": "03_审片/clips/M6.mp4",
+    "sha256": "0789cf9a95d25826a74e1a126730e9ac69e32e9382204cd3813019a97b888288",
+    "bytes": 2363059
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M6\\image-01.png",
+    "archived": "02_关键帧/定格画面/M6/image-01.png",
+    "sha256": "819ea4cc7d969cb713f8ab8c57367203f01e52d99e35860920c722924eabd97b",
+    "bytes": 1219037
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M6\\image-02.png",
+    "archived": "02_关键帧/定格画面/M6/image-02.png",
+    "sha256": "328f2dc396d73dde488c1e5ff44795a8e7339b7763089d23349381408ea8db99",
+    "bytes": 1401075
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M6\\image-03.png",
+    "archived": "02_关键帧/定格画面/M6/image-03.png",
+    "sha256": "328f2dc396d73dde488c1e5ff44795a8e7339b7763089d23349381408ea8db99",
+    "bytes": 1401075
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M6\\image-04.png",
+    "archived": "02_关键帧/定格画面/M6/image-04.png",
+    "sha256": "e6338fe0144a3fc0d77a593a142c5b28650c0efc53cdd269596dd09e2916a76a",
+    "bytes": 1295267
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M6\\image-05.png",
+    "archived": "02_关键帧/定格画面/M6/image-05.png",
+    "sha256": "e6338fe0144a3fc0d77a593a142c5b28650c0efc53cdd269596dd09e2916a76a",
+    "bytes": 1295267
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M6\\image-06.png",
+    "archived": "02_关键帧/定格画面/M6/image-06.png",
+    "sha256": "f00c64d5cbf39bbd1196114b6554cca8fc0693f911a6549fbcb9f6f970fcf17d",
+    "bytes": 1294751
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M6\\image-07.png",
+    "archived": "02_关键帧/定格画面/M6/image-07.png",
+    "sha256": "f00c64d5cbf39bbd1196114b6554cca8fc0693f911a6549fbcb9f6f970fcf17d",
+    "bytes": 1294751
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M6\\image-08.png",
+    "archived": "02_关键帧/定格画面/M6/image-08.png",
+    "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9",
+    "bytes": 1349828
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M7.mp4",
+    "archived": "03_审片/clips/M7.mp4",
+    "sha256": "fbfe58b6f292e2d1c94f9cbaf41fcb219cda289dc19cc3c322c5851d13760178",
+    "bytes": 2936150
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M7\\image-01.png",
+    "archived": "02_关键帧/定格画面/M7/image-01.png",
+    "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9",
+    "bytes": 1349828
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M7\\image-02.png",
+    "archived": "02_关键帧/定格画面/M7/image-02.png",
+    "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9",
+    "bytes": 1349828
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M7\\image-03.png",
+    "archived": "02_关键帧/定格画面/M7/image-03.png",
+    "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9",
+    "bytes": 1349828
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M7\\image-04.png",
+    "archived": "02_关键帧/定格画面/M7/image-04.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M7\\image-05.png",
+    "archived": "02_关键帧/定格画面/M7/image-05.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M7\\image-06.png",
+    "archived": "02_关键帧/定格画面/M7/image-06.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M7\\image-07.png",
+    "archived": "02_关键帧/定格画面/M7/image-07.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M7\\image-08.png",
+    "archived": "02_关键帧/定格画面/M7/image-08.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M8.mp4",
+    "archived": "03_审片/clips/M8.mp4",
+    "sha256": "d24ae6611f8f9a4b8e31e306d72b38c39fe90137e43cfe3cdf2f7476ed7b6d2c",
+    "bytes": 2661652
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M8\\image-01.png",
+    "archived": "02_关键帧/定格画面/M8/image-01.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M8\\image-02.png",
+    "archived": "02_关键帧/定格画面/M8/image-02.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M8\\image-03.png",
+    "archived": "02_关键帧/定格画面/M8/image-03.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M8\\image-04.png",
+    "archived": "02_关键帧/定格画面/M8/image-04.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M8\\image-05.png",
+    "archived": "02_关键帧/定格画面/M8/image-05.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M8\\image-06.png",
+    "archived": "02_关键帧/定格画面/M8/image-06.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M8\\image-07.png",
+    "archived": "02_关键帧/定格画面/M8/image-07.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M8\\image-08.png",
+    "archived": "02_关键帧/定格画面/M8/image-08.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M9.mp4",
+    "archived": "03_审片/clips/M9.mp4",
+    "sha256": "9f644f732695c3d36b4139fe7322f7dc8672139cdd3082dd9e9d3b88c53331f2",
+    "bytes": 3093702
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M9\\image-01.png",
+    "archived": "02_关键帧/定格画面/M9/image-01.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M9\\image-02.png",
+    "archived": "02_关键帧/定格画面/M9/image-02.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M9\\image-03.png",
+    "archived": "02_关键帧/定格画面/M9/image-03.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M9\\image-04.png",
+    "archived": "02_关键帧/定格画面/M9/image-04.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M9\\image-05.png",
+    "archived": "02_关键帧/定格画面/M9/image-05.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M9\\image-06.png",
+    "archived": "02_关键帧/定格画面/M9/image-06.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M9\\image-07.png",
+    "archived": "02_关键帧/定格画面/M9/image-07.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M9\\image-08.png",
+    "archived": "02_关键帧/定格画面/M9/image-08.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M10.mp4",
+    "archived": "03_审片/clips/M10.mp4",
+    "sha256": "9385244551352b89b548010c53bd159d022a12ae8b1764958cc984f723fcbe40",
+    "bytes": 2602579
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M10\\image-01.png",
+    "archived": "02_关键帧/定格画面/M10/image-01.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M10\\image-02.png",
+    "archived": "02_关键帧/定格画面/M10/image-02.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M10\\image-03.png",
+    "archived": "02_关键帧/定格画面/M10/image-03.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M10\\image-04.png",
+    "archived": "02_关键帧/定格画面/M10/image-04.png",
+    "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+    "bytes": 1388257
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M10\\image-05.png",
+    "archived": "02_关键帧/定格画面/M10/image-05.png",
+    "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+    "bytes": 1388257
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M10\\image-06.png",
+    "archived": "02_关键帧/定格画面/M10/image-06.png",
+    "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+    "bytes": 1388257
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M10\\image-07.png",
+    "archived": "02_关键帧/定格画面/M10/image-07.png",
+    "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+    "bytes": 1388257
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M10\\image-08.png",
+    "archived": "02_关键帧/定格画面/M10/image-08.png",
+    "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+    "bytes": 1388257
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M11.mp4",
+    "archived": "03_审片/clips/M11.mp4",
+    "sha256": "2a7395550de827b2541eef473205fb5fd3ae3f31d22caa6199d0b51979fd4f2c",
+    "bytes": 2230433
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M11\\image-01.png",
+    "archived": "02_关键帧/定格画面/M11/image-01.png",
+    "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+    "bytes": 1388257
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M11\\image-02.png",
+    "archived": "02_关键帧/定格画面/M11/image-02.png",
+    "sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31",
+    "bytes": 1473233
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M11\\image-03.png",
+    "archived": "02_关键帧/定格画面/M11/image-03.png",
+    "sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31",
+    "bytes": 1473233
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M11\\image-04.png",
+    "archived": "02_关键帧/定格画面/M11/image-04.png",
+    "sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31",
+    "bytes": 1473233
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M11\\image-05.png",
+    "archived": "02_关键帧/定格画面/M11/image-05.png",
+    "sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31",
+    "bytes": 1473233
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M11\\image-06.png",
+    "archived": "02_关键帧/定格画面/M11/image-06.png",
+    "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+    "bytes": 1366488
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M11\\image-07.png",
+    "archived": "02_关键帧/定格画面/M11/image-07.png",
+    "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+    "bytes": 1366488
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M11\\image-08.png",
+    "archived": "02_关键帧/定格画面/M11/image-08.png",
+    "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+    "bytes": 1366488
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M12.mp4",
+    "archived": "03_审片/clips/M12.mp4",
+    "sha256": "ea0ac0a00916a803ef48639e87696eb5e4597a23e10e142e9633da56bba7e55a",
+    "bytes": 2279172
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M12\\image-01.png",
+    "archived": "02_关键帧/定格画面/M12/image-01.png",
+    "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+    "bytes": 1366488
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M12\\image-02.png",
+    "archived": "02_关键帧/定格画面/M12/image-02.png",
+    "sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b",
+    "bytes": 1407103
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M12\\image-03.png",
+    "archived": "02_关键帧/定格画面/M12/image-03.png",
+    "sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b",
+    "bytes": 1407103
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M12\\image-04.png",
+    "archived": "02_关键帧/定格画面/M12/image-04.png",
+    "sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b",
+    "bytes": 1407103
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M12\\image-05.png",
+    "archived": "02_关键帧/定格画面/M12/image-05.png",
+    "sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b",
+    "bytes": 1407103
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M12\\image-06.png",
+    "archived": "02_关键帧/定格画面/M12/image-06.png",
+    "sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde",
+    "bytes": 1381722
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M12\\image-07.png",
+    "archived": "02_关键帧/定格画面/M12/image-07.png",
+    "sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde",
+    "bytes": 1381722
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M12\\image-08.png",
+    "archived": "02_关键帧/定格画面/M12/image-08.png",
+    "sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde",
+    "bytes": 1381722
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M13.mp4",
+    "archived": "03_审片/clips/M13.mp4",
+    "sha256": "c9b87972c980427bb67e88ac5ba1b5ad7fc9d98d8d394c845ebe54344ca098ae",
+    "bytes": 2494202
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M14.mp4",
+    "archived": "03_审片/clips/M14.mp4",
+    "sha256": "082b20eb2eed452b9807919967798d8fc9ea228a44e56b0789b484be39d56107",
+    "bytes": 6110793
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M15.mp4",
+    "archived": "03_审片/clips/M15.mp4",
+    "sha256": "bc462bcf5fc0543c470e6193c3373d5b4c74e590327df70f6632c15516fe799b",
+    "bytes": 85757
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M16.mp4",
+    "archived": "03_审片/clips/M16.mp4",
+    "sha256": "ff04c6ab83f9509139de69f363255cc0e54d98d087dda2985ebe07ee08b13620",
+    "bytes": 5669825
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M17.mp4",
+    "archived": "03_审片/clips/M17.mp4",
+    "sha256": "9b67fcdd6302479ebe97d1c7d6a79c8eb32caac9e19e03f5fe08f441779958a3",
+    "bytes": 11335490
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M18.mp4",
+    "archived": "03_审片/clips/M18.mp4",
+    "sha256": "ee6d8623ca1ea2db82f5e6a3858657db2de6a9b119618919bf270d8d99f90435",
+    "bytes": 6529420
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M19.mp4",
+    "archived": "03_审片/clips/M19.mp4",
+    "sha256": "5e86bb18f58ca66021998cf9a136e4602da68ab36c84c44b0bfeadd67c8864a4",
+    "bytes": 2926848
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M20.mp4",
+    "archived": "03_审片/clips/M20.mp4",
+    "sha256": "0e1a4590c938284b203d15f4d4e7cef473e00fdea82e19ee7243756fad849a35",
+    "bytes": 3609379
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M21.mp4",
+    "archived": "03_审片/clips/M21.mp4",
+    "sha256": "387bdc3caf584351baf678614b3113212d6d73e17c839aae1b6a155b5033b84e",
+    "bytes": 4044737
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M22.mp4",
+    "archived": "03_审片/clips/M22.mp4",
+    "sha256": "c9b8f466e2d72ba4f77dd1c5428de56338e6d1756fc9bb51cc6a0d0c974d853d",
+    "bytes": 4364574
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M23.mp4",
+    "archived": "03_审片/clips/M23.mp4",
+    "sha256": "8fdd9faa52619a7bfef75d9fb99fd20feda6673b1652bfc7fa0a68554ae200ad",
+    "bytes": 3639834
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M24.mp4",
+    "archived": "03_审片/clips/M24.mp4",
+    "sha256": "b4cc61774fce382c8f3e165d4945894ef4e3862049689a60842e08e925da3c3a",
+    "bytes": 7013397
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M25.mp4",
+    "archived": "03_审片/clips/M25.mp4",
+    "sha256": "377a4ab9c024ed863c6141121487aed84419d9fd280b51cc1b12b7b4ce8b787d",
+    "bytes": 4146879
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\M26.mp4",
+    "archived": "03_审片/clips/M26.mp4",
+    "sha256": "4b1ebd6729f5f06d7961e11e7d732ea37d8884688d7066205c704743b0f432f0",
+    "bytes": 492115
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M26\\image-01.png",
+    "archived": "02_关键帧/定格画面/M26/image-01.png",
+    "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5",
+    "bytes": 239373
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M26\\image-02.png",
+    "archived": "02_关键帧/定格画面/M26/image-02.png",
+    "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5",
+    "bytes": 239373
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M26\\image-03.png",
+    "archived": "02_关键帧/定格画面/M26/image-03.png",
+    "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5",
+    "bytes": 239373
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M26\\image-04.png",
+    "archived": "02_关键帧/定格画面/M26/image-04.png",
+    "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5",
+    "bytes": 239373
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M26\\image-05.png",
+    "archived": "02_关键帧/定格画面/M26/image-05.png",
+    "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5",
+    "bytes": 239373
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M26\\image-06.png",
+    "archived": "02_关键帧/定格画面/M26/image-06.png",
+    "sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5",
+    "bytes": 239373
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M26\\image-07.png",
+    "archived": "02_关键帧/定格画面/M26/image-07.png",
+    "sha256": "3303057e19047fe994a3ce5a6a79f573a34e4de1e5d3654b6c1d7b1c8abd67f8",
+    "bytes": 6154
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\frames\\M26\\image-08.png",
+    "archived": "02_关键帧/定格画面/M26/image-08.png",
+    "sha256": "3303057e19047fe994a3ce5a6a79f573a34e4de1e5d3654b6c1d7b1c8abd67f8",
+    "bytes": 6154
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\clips\\END.mp4",
+    "archived": "03_审片/clips/END.mp4",
+    "sha256": "037c62a8a56f3521fed2697817f7994b9946a456fc612f28d7ed6fccadf10078",
+    "bytes": 135653
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\reference\\序言.png",
+    "archived": "02_关键帧/分镜基准/序言.png",
+    "sha256": "f8f0430f5257fd493bed1dce4a5f9a6d6dd0d9eb788635de88b97a9e0f766215",
+    "bytes": 410315
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M1-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M1-原画重绘-v09.png",
+    "sha256": "80075bdc5cefc001379844428a383d66bf73619b6fe20a635e0932e7d774c942",
+    "bytes": 973676
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M2-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M2-原画重绘-v09.png",
+    "sha256": "9659b6b41aa58f4ba6d3750e6b4ad19c7bc361d5668bd7b8df16c793c64d49e0",
+    "bytes": 993692
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M3-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M3-原画重绘-v09.png",
+    "sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+    "bytes": 940417
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M4-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M4-原画重绘-v09.png",
+    "sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810",
+    "bytes": 1451968
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M5-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M5-原画重绘-v09.png",
+    "sha256": "5f388e4aad22294e7352d922d7b6f4fb3e1c231e8b90bdf268186ace355ac5ca",
+    "bytes": 1319932
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M6-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M6-原画重绘-v09.png",
+    "sha256": "328f2dc396d73dde488c1e5ff44795a8e7339b7763089d23349381408ea8db99",
+    "bytes": 1401075
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M7-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M7-原画重绘-v09.png",
+    "sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9",
+    "bytes": 1349828
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M8-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M8-原画重绘-v09.png",
+    "sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+    "bytes": 1599438
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M9-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M9-原画重绘-v09.png",
+    "sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+    "bytes": 1375955
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M10-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M10-原画重绘-v09.png",
+    "sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+    "bytes": 1812957
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M11-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M11-原画重绘-v09.png",
+    "sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+    "bytes": 1388257
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M12-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M12-原画重绘-v09.png",
+    "sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+    "bytes": 1366488
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M13-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M13-原画重绘-v09.png",
+    "sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde",
+    "bytes": 1381722
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v09\\M14-原画重绘-v09.png",
+    "archived": "02_关键帧/分镜基准/M14-原画重绘-v09.png",
+    "sha256": "7c71d42948bf68ddde9daa65e0ce64bd2cce6fce4778b5c179b4d181d9547727",
+    "bytes": 1483447
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\M15-A-远景生长-v08.png",
+    "archived": "02_关键帧/分镜基准/M15-A-远景生长-v08.png",
+    "sha256": "4a66a9379c9f24486f117b933cf6479ae32624f1b5568b2d146974cbfaa06171",
+    "bytes": 4825
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\M16-C-远景生长-v08.png",
+    "archived": "02_关键帧/分镜基准/M16-C-远景生长-v08.png",
+    "sha256": "6d4e9636778e9e394ad3ab2efac99c473a928d56eb533520af4bc4fd04f4046a",
+    "bytes": 10715
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\M17-C-远景生长-v08.png",
+    "archived": "02_关键帧/分镜基准/M17-C-远景生长-v08.png",
+    "sha256": "e2b514da2970bce759652d549056e9201791a26abf0a2e5884564bf24a2407a7",
+    "bytes": 23212
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M18-原画重绘-v10.png",
+    "archived": "02_关键帧/分镜基准/M18-原画重绘-v10.png",
+    "sha256": "cda2efe0547a380ef412277004470ed84a86035821f9aedb9cfd8a1262bbaa1e",
+    "bytes": 1065996
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M19-原画重绘-v10.png",
+    "archived": "02_关键帧/分镜基准/M19-原画重绘-v10.png",
+    "sha256": "a86c08761c0a6cb56f76e4be6fdcb38fabbbb9c9e5db7f0b61da39a4efeb9e78",
+    "bytes": 773621
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M20-原画重绘-v10.png",
+    "archived": "02_关键帧/分镜基准/M20-原画重绘-v10.png",
+    "sha256": "f23e7970b5463d522fb98bb3c6f55137a681cf634d8b1234fad9494e3fde54d0",
+    "bytes": 560926
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M21-原画重绘-v10.png",
+    "archived": "02_关键帧/分镜基准/M21-原画重绘-v10.png",
+    "sha256": "76c0e4e324491c4e5fafbdf03f07a84e7bc21af38ad89a653e7e65a3ed9d277b",
+    "bytes": 607937
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M22-原画重绘-v10.png",
+    "archived": "02_关键帧/分镜基准/M22-原画重绘-v10.png",
+    "sha256": "f7f46bc4f558f3d7aa88c7ed27adfa5475424531d55ba66c11ddf85d757dd2f9",
+    "bytes": 662092
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M23-原画重绘-v10.png",
+    "archived": "02_关键帧/分镜基准/M23-原画重绘-v10.png",
+    "sha256": "06b5a5b05435a28e5d29d355d72da1fb2c76cd197eab60611651b791d5d7683a",
+    "bytes": 696668
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M24-界面-v10.png",
+    "archived": "02_关键帧/分镜基准/M24-界面-v10.png",
+    "sha256": "9d11af09ab39648d26e4b086b3dae040fe74f3f527de9fdbe794efd3d044631a",
+    "bytes": 134054
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M25-界面-v10.png",
+    "archived": "02_关键帧/分镜基准/M25-界面-v10.png",
+    "sha256": "2a77c3dba37b270499027fa5d83c6b0254448ab1a03777e92da2dc6e84a2981f",
+    "bytes": 833776
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\keyframes\\redraw-v10\\M26-界面-v10.png",
+    "archived": "02_关键帧/分镜基准/M26-界面-v10.png",
+    "sha256": "a25d8664d3e9618adc93021a37336594be72b86c817889597fdb553838d09fc9",
+    "bytes": 353352
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\原稿\\地铁.png",
+    "archived": "02_关键帧/原始参考画/地铁.png",
+    "sha256": "b06d017b6c88e6a3930468cf4403e3de4b943e5ae9ece53005a2bb59d92a80c1",
+    "bytes": 1544901
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\原稿\\地铁内.png",
+    "archived": "02_关键帧/原始参考画/地铁内.png",
+    "sha256": "0ce08e0face494f88d0bb3b04bb470e85b019ee8f4066d5be25b04dbd50e1120",
+    "bytes": 1664056
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\原稿\\序言.png",
+    "archived": "02_关键帧/原始参考画/序言.png",
+    "sha256": "f8f0430f5257fd493bed1dce4a5f9a6d6dd0d9eb788635de88b97a9e0f766215",
+    "bytes": 410315
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\原稿\\电脑.png",
+    "archived": "02_关键帧/原始参考画/电脑.png",
+    "sha256": "fc6a1bb88487237d1d47cefdacaaaf15499b970218d36f3e14f9a6d619ffe388",
+    "bytes": 1055829
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\原稿\\芯片.png",
+    "archived": "02_关键帧/原始参考画/芯片.png",
+    "sha256": "d7f4dd81662308d5a27b7d4907d20b5e77a1d90c53ad0938b3e85c82aae7111b",
+    "bytes": 740604
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\原稿\\过马路.png",
+    "archived": "02_关键帧/原始参考画/过马路.png",
+    "sha256": "a6e996ea58798fdae78f3339d85188b8a647e67aa3a0edd45fdc0fd469dab832",
+    "bytes": 1301132
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\初稿.docx",
+    "archived": "01_剧本/原始音乐剪辑初稿.docx",
+    "sha256": "cf6b05e17ce89a87b75a5ac7c237794d685d7409722d02066f4a7b127df32d2e",
+    "bytes": 13014
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\音乐剪辑对应表.md",
+    "archived": "01_剧本/原始音乐剪辑对应表.md",
+    "sha256": "c813e5807affe2db84f4db20ef8b8a23f127857d86042500451fd1e161cd0664",
+    "bytes": 4029
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\硅晶之梦-AIMV-v01\\assets\\audio\\硅晶之梦-26M-M21-M22渐强-v04.wav",
+    "archived": "05_音频/原剪辑音乐-v04.wav",
+    "sha256": "73dd89116defcc148948a8b72e4d251c1089c1deffda5372db09166089386932",
+    "bytes": 38410820
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\audio\\原曲加结尾鼠标点击-v23.wav",
+    "archived": "05_音频/最终混音-含鼠标点击.wav",
+    "sha256": "9c0d88c607e84d74ec95d1aea8d1f68a15234dd3d9170b59648a44b97668f634",
+    "bytes": 41807692
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\audio\\鼠标点击.wav",
+    "archived": "05_音频/鼠标点击.wav",
+    "sha256": "f56bb3e8cff15961e24cefa128924260302c9cbaf991ca22e7037e92ee5861bd",
+    "bytes": 36572
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\hhtcx - Silicon Dreams（硅晶之梦，硅晶之梦主题曲）.mp3",
+    "archived": "05_音频/原曲/hhtcx - Silicon Dreams（硅晶之梦，硅晶之梦主题曲）.mp3",
+    "sha256": "823c6523f73ec5ba0c19db73a229a08d07773c0348a65a4fb3209176d74f350f",
+    "bytes": 15306120
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\硅晶之梦.mp3",
+    "archived": "05_音频/原曲/硅晶之梦.mp3",
+    "sha256": "3e7a2c86c1472bdcd62a8b34fd40fec001dc8b2413c67d2218e49c02b737e54f",
+    "bytes": 4197398
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\投稿版核验.json",
+    "archived": "06_工程与核验/投稿版核验.json",
+    "sha256": "fd07f32b21b358cc918399afc64ce6159f18f0d7fa4408e1101510eb635761a2",
+    "bytes": 494
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\M4倒计时核验.json",
+    "archived": "06_工程与核验/M4倒计时核验.json",
+    "sha256": "d73f3821644809a94031155228a846db122a37fea9a809ed26694d3232e7595e",
+    "bytes": 217
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\M4导出画面核验.json",
+    "archived": "06_工程与核验/M4导出画面核验.json",
+    "sha256": "22f33c7953b37f8d966b644c79800bd189290efc7bb2f13f08ff09f607c11d1a",
+    "bytes": 269
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\qa\\M4实际倒计时核对.png",
+    "archived": "06_工程与核验/画面核对/M4实际倒计时核对.png",
+    "sha256": "8c59eb81b4a57e2c1e5a03476a140758a7f7f4a17c7ad6699a53e57ebd2f7ecb",
+    "bytes": 44543
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\qa\\frame-6351.png",
+    "archived": "06_工程与核验/画面核对/frame-6351.png",
+    "sha256": "d9ca001d79d2371568c890e09bed3cab0f5e03e854e6dd5d1da00efa415c1e79",
+    "bytes": 215689
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\qa\\frame-6352.png",
+    "archived": "06_工程与核验/画面核对/frame-6352.png",
+    "sha256": "a01d7df43e68dbeb6cc04efe25ee3cb3b633dacfede0b7a5b52b3e6d79ccec1b",
+    "bytes": 6189
+  },
+  {
+    "original": "D:\\CodexProject\\MV\\outputs\\硅晶之梦-审阅修改-v25\\qa\\frame-6442.png",
+    "archived": "06_工程与核验/画面核对/frame-6442.png",
+    "sha256": "1a9e9214fcd2a453b64c3aaf7be429ff6cad27dc89e965bc1b5d6d7f95864ccc",
+    "bytes": 141950
+  },
+  {
+    "original": "D:\\CodexProject\\2026-10-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\audio-deps\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+    "archived": "06_工程与核验/工具/ffmpeg.exe",
+    "sha256": "2ce797a0f88d7f067180338fb227f7b1928ea727bd9a4d7a1d022f7c52af71a3",
+    "bytes": 87638016
+  }
+]

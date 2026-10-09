@@ -1,0 +1,13 @@
+{
+  "slot6": 9,
+  "slot7": 9,
+  "slot8": 8,
+  "M4_last_image_equals_M5_first_image": true,
+  "only_original_signal_pixels_edited": true,
+  "changed_pixel_bbox": [
+    1538,
+    242,
+    1571,
+    295
+  ]
+}

@@ -1,0 +1,1666 @@
+{
+  "version": "v25-archive",
+  "title": "硅晶之梦",
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "total_frames": 6532,
+  "duration_seconds": 108.86666666666666,
+  "audio": "05_音频/最终混音-含鼠标点击.wav",
+  "output": "04_成片/硅晶之梦-成片-v25.mp4",
+  "front_output": "04_成片/硅晶之梦-M1-M12-v25.mp4",
+  "no_new_scene_artwork": true,
+  "user_review_pending": true,
+  "jobs": [
+    {
+      "id": "OPEN",
+      "title": "序章",
+      "start_frame": 0,
+      "frames": 120,
+      "start_seconds": 0.0,
+      "duration_seconds": 2.0,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/OPEN.mp4",
+      "sha256": "4771df8ab4c0a3385bf2206ad2db4a0fd72de95573dcc3d1cb56d5cf28d34d46",
+      "stored_samples": 120
+    },
+    {
+      "id": "M1",
+      "title": "床边起身",
+      "start_frame": 120,
+      "frames": 242,
+      "start_seconds": 2.0,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M1/image-01.png",
+          "source_sha256": "80075bdc5cefc001379844428a383d66bf73619b6fe20a635e0932e7d774c942"
+        },
+        {
+          "index": 2,
+          "original_index": 2,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M1/image-02.png",
+          "source_sha256": "2d7cc44d89ace631b2859eed2d133aeec55275504f5ef67cdafcda188c088441"
+        },
+        {
+          "index": 3,
+          "original_index": 3,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M1/image-03.png",
+          "source_sha256": "10e4cbe8cc022d707f74373be021add2e16e97d3379770364f3ed604f873b57c"
+        },
+        {
+          "index": 4,
+          "original_index": 4,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M1/image-04.png",
+          "source_sha256": "10e4cbe8cc022d707f74373be021add2e16e97d3379770364f3ed604f873b57c"
+        },
+        {
+          "index": 5,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M1/image-05.png",
+          "source_sha256": "8dad00bc6bd2ea4547f5ad11140816c99fe884ac23ce0531b4dbca6dfa46bad2"
+        },
+        {
+          "index": 6,
+          "original_index": 6,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M1/image-06.png",
+          "source_sha256": "7438a8795065b522555e24a1ff193ddf1d8e245dde6c60cd1595027f5fe19f49"
+        },
+        {
+          "index": 7,
+          "original_index": 7,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M1/image-07.png",
+          "source_sha256": "7438a8795065b522555e24a1ff193ddf1d8e245dde6c60cd1595027f5fe19f49"
+        },
+        {
+          "index": 8,
+          "original_index": 8,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M1/image-08.png",
+          "source_sha256": "9659b6b41aa58f4ba6d3750e6b4ad19c7bc361d5668bd7b8df16c793c64d49e0"
+        }
+      ],
+      "source_version": "v19",
+      "mode": "原 v19 视频原样保留",
+      "user_selected": true,
+      "file": "03_审片/clips/M1.mp4",
+      "sha256": "441834bc7169711c4c42744eeffe4fc99cc37eb84a02f5c6c6e8740ef60175bc",
+      "stored_samples": 8
+    },
+    {
+      "id": "M2",
+      "title": "走出房门",
+      "start_frame": 362,
+      "frames": 242,
+      "start_seconds": 6.033333333333333,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M2-2",
+        "M2-3",
+        "M2-4",
+        "M2-5",
+        "M2-6",
+        "M2-7",
+        "M2-8",
+        "M3-1"
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M2/image-01.png",
+          "source_sha256": "9659b6b41aa58f4ba6d3750e6b4ad19c7bc361d5668bd7b8df16c793c64d49e0",
+          "previous_scene": "M2",
+          "previous_slot": 2,
+          "original_scene": "M2"
+        },
+        {
+          "index": 2,
+          "original_index": 2,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M2/image-02.png",
+          "source_sha256": "7aaa8173d2ce49fcec34510cb7801adf2ee7bc53f9580def3b95c81c709058fb",
+          "previous_scene": "M2",
+          "previous_slot": 3,
+          "original_scene": "M2"
+        },
+        {
+          "index": 3,
+          "original_index": 2,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M2/image-03.png",
+          "source_sha256": "7aaa8173d2ce49fcec34510cb7801adf2ee7bc53f9580def3b95c81c709058fb",
+          "previous_scene": "M2",
+          "previous_slot": 4,
+          "original_scene": "M2"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M2/image-04.png",
+          "source_sha256": "71819c0e85d9c0b9b8d6090b9d7e48de0b2c8aa046536ef383d59b6a1e8cad94",
+          "previous_scene": "M2",
+          "previous_slot": 5,
+          "original_scene": "M2"
+        },
+        {
+          "index": 5,
+          "original_index": 6,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M2/image-05.png",
+          "source_sha256": "71819c0e85d9c0b9b8d6090b9d7e48de0b2c8aa046536ef383d59b6a1e8cad94",
+          "previous_scene": "M2",
+          "previous_slot": 6,
+          "original_scene": "M2"
+        },
+        {
+          "index": 6,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M2/image-06.png",
+          "source_sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+          "previous_scene": "M2",
+          "previous_slot": 7,
+          "original_scene": "M2"
+        },
+        {
+          "index": 7,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M2/image-07.png",
+          "source_sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+          "previous_scene": "M2",
+          "previous_slot": 8,
+          "original_scene": "M2"
+        },
+        {
+          "index": 8,
+          "original_index": 1,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M2/image-08.png",
+          "source_sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+          "previous_scene": "M3",
+          "previous_slot": 1,
+          "original_scene": "M3"
+        }
+      ],
+      "source_version": "v21",
+      "mode": "删去 M2 首格后整体前移一格",
+      "user_selected": false,
+      "frame_rmse": [
+        1.4183298349380493,
+        1.5144490003585815,
+        1.5144490003585815,
+        1.4024105072021484,
+        1.4024105072021484,
+        1.3043451309204102,
+        1.3043451309204102,
+        1.3043451309204102
+      ],
+      "file": "03_审片/clips/M2.mp4",
+      "sha256": "d58caedfd6e55e6a6b1598c7188d71b674b5d77d02efad8b13aaf65138f1181b",
+      "stored_samples": 8
+    },
+    {
+      "id": "M3",
+      "title": "下楼到楼门",
+      "start_frame": 604,
+      "frames": 242,
+      "start_seconds": 10.066666666666666,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M3-2",
+        "M3-3",
+        "M3-4",
+        "M3-5",
+        "M3-6",
+        "M3-5",
+        "M3-8",
+        "M4-1"
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M3/image-01.png",
+          "source_sha256": "dfb1c830a96c07c106df5f903f3b06627c8a8acbce9e85a3ae5a5f51d83bfa72",
+          "previous_scene": "M3",
+          "previous_slot": 2,
+          "original_scene": "M3"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M3/image-02.png",
+          "source_sha256": "e8933c282a2f3ba882d6d595e53c842e00378c77d9b2a3055d4d7ca9abe6dd39",
+          "previous_scene": "M3",
+          "previous_slot": 3,
+          "original_scene": "M3"
+        },
+        {
+          "index": 3,
+          "original_index": 3,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M3/image-03.png",
+          "source_sha256": "e8933c282a2f3ba882d6d595e53c842e00378c77d9b2a3055d4d7ca9abe6dd39",
+          "previous_scene": "M3",
+          "previous_slot": 4,
+          "original_scene": "M3"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M3/image-04.png",
+          "source_sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165",
+          "previous_scene": "M3",
+          "previous_slot": 5,
+          "original_scene": "M3"
+        },
+        {
+          "index": 5,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M3/image-05.png",
+          "source_sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165",
+          "previous_scene": "M3",
+          "previous_slot": 6,
+          "original_scene": "M3"
+        },
+        {
+          "index": 6,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M3/image-06.png",
+          "source_sha256": "591cd4ad02c9ff5858c0e7a6ae619544ce00cfc61afabb74b18f8eaaefa52165",
+          "previous_scene": "M3",
+          "previous_slot": 5,
+          "original_scene": "M3",
+          "edit_note": "用 v22 M3 第4格替换第6格"
+        },
+        {
+          "index": 7,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M3/image-07.png",
+          "source_sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810",
+          "previous_scene": "M3",
+          "previous_slot": 8,
+          "original_scene": "M3"
+        },
+        {
+          "index": 8,
+          "original_index": 1,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M3/image-08.png",
+          "source_sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810",
+          "previous_scene": "M4",
+          "previous_slot": 1,
+          "original_scene": "M4"
+        }
+      ],
+      "source_version": "v22",
+      "mode": "M3 第6格替换为当前第4格",
+      "user_selected": false,
+      "frame_rmse": [
+        1.3043451309204102,
+        1.4681895971298218,
+        1.4681895971298218,
+        1.487945318222046,
+        1.487945318222046,
+        1.487945318222046,
+        1.4568507671356201,
+        1.4568507671356201
+      ],
+      "file": "03_审片/clips/M3.mp4",
+      "sha256": "6e29a181d90173b1d6bebb12f1b0b4cd64cbbb643ecd430534338adf1bb08d0b",
+      "stored_samples": 8
+    },
+    {
+      "id": "M4",
+      "title": "到人群中站定",
+      "start_frame": 846,
+      "frames": 242,
+      "start_seconds": 14.1,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M4-2",
+        "M4-3",
+        "M4-4",
+        "M4-5",
+        "M4-6",
+        9,
+        9,
+        8
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M4/image-01.png",
+          "source_sha256": "339b9cb35ab3517f059622b985879b5b07f9a2e1dae20becb63ccf9fac05d810",
+          "previous_scene": "M4",
+          "previous_slot": 2,
+          "original_scene": "M4"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M4/image-02.png",
+          "source_sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf",
+          "previous_scene": "M4",
+          "previous_slot": 3,
+          "original_scene": "M4"
+        },
+        {
+          "index": 3,
+          "original_index": 3,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M4/image-03.png",
+          "source_sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf",
+          "previous_scene": "M4",
+          "previous_slot": 4,
+          "original_scene": "M4"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M4/image-04.png",
+          "source_sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf",
+          "previous_scene": "M4",
+          "previous_slot": 5,
+          "original_scene": "M4"
+        },
+        {
+          "index": 5,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M4/image-05.png",
+          "source_sha256": "c0f39b26766d64cd20b3b426e4330d41ae17cbe0b23dce5c6a4651f494aefbbf",
+          "previous_scene": "M4",
+          "previous_slot": 6,
+          "original_scene": "M4"
+        },
+        {
+          "index": 6,
+          "original_index": 9,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M4/image-06.png",
+          "source_sha256": "b65d2f6dcaaee29f549ddba23777cef1f3d3bd53e35c4c0871194324957ac596",
+          "original_scene": "倒计时",
+          "signal_state": 9
+        },
+        {
+          "index": 7,
+          "original_index": 9,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M4/image-07.png",
+          "source_sha256": "b65d2f6dcaaee29f549ddba23777cef1f3d3bd53e35c4c0871194324957ac596",
+          "original_scene": "倒计时",
+          "signal_state": 9
+        },
+        {
+          "index": 8,
+          "original_index": 8,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M4/image-08.png",
+          "source_sha256": "14bff8dd1b1c5d615851fdc5985d394eeb61901a199ba96a526a32284176ed0a",
+          "original_scene": "倒计时",
+          "signal_state": 8
+        }
+      ],
+      "source_version": "v24 M4修正",
+      "mode": "第6、7格倒计时9；第8格倒计时8",
+      "user_selected": false,
+      "frame_rmse": [
+        1.4568507671356201,
+        1.4484866857528687,
+        1.4484866857528687,
+        1.4484866857528687,
+        1.4484866857528687,
+        1.3074826002120972,
+        1.3074826002120972,
+        1.320195198059082
+      ],
+      "file": "03_审片/clips/M4.mp4",
+      "sha256": "49b3ebefea9c12df9f542aa797980029d7aa4a35442066b6b676f610b6354fd7",
+      "stored_samples": 8
+    },
+    {
+      "id": "M5",
+      "title": "与人群等灯",
+      "start_frame": 1088,
+      "frames": 242,
+      "start_seconds": 18.133333333333333,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        8,
+        7,
+        7,
+        6,
+        6,
+        5,
+        5,
+        4
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 8,
+          "signal_state": 8,
+          "original_scene": "倒计时",
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M5/image-01.png",
+          "source_sha256": "14bff8dd1b1c5d615851fdc5985d394eeb61901a199ba96a526a32284176ed0a"
+        },
+        {
+          "index": 2,
+          "original_index": 7,
+          "signal_state": 7,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M5/image-02.png",
+          "source_sha256": "5f388e4aad22294e7352d922d7b6f4fb3e1c231e8b90bdf268186ace355ac5ca"
+        },
+        {
+          "index": 3,
+          "original_index": 7,
+          "signal_state": 7,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M5/image-03.png",
+          "source_sha256": "5f388e4aad22294e7352d922d7b6f4fb3e1c231e8b90bdf268186ace355ac5ca"
+        },
+        {
+          "index": 4,
+          "original_index": 6,
+          "signal_state": 6,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M5/image-04.png",
+          "source_sha256": "775f3574ea82a9f43a6134122d0a02868498ebb0e6c9fcbd9b42d4f107c59c06"
+        },
+        {
+          "index": 5,
+          "original_index": 6,
+          "signal_state": 6,
+          "original_scene": "倒计时",
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M5/image-05.png",
+          "source_sha256": "775f3574ea82a9f43a6134122d0a02868498ebb0e6c9fcbd9b42d4f107c59c06"
+        },
+        {
+          "index": 6,
+          "original_index": 5,
+          "signal_state": 5,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M5/image-06.png",
+          "source_sha256": "662c7803393d05c67793b7776e80e7377d8b2f6b9a984b485254b0144e46141c"
+        },
+        {
+          "index": 7,
+          "original_index": 5,
+          "signal_state": 5,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M5/image-07.png",
+          "source_sha256": "662c7803393d05c67793b7776e80e7377d8b2f6b9a984b485254b0144e46141c"
+        },
+        {
+          "index": 8,
+          "original_index": 4,
+          "signal_state": 4,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M5/image-08.png",
+          "source_sha256": "819ea4cc7d969cb713f8ab8c57367203f01e52d99e35860920c722924eabd97b"
+        }
+      ],
+      "source_version": "v23 倒计时修正",
+      "mode": "倒计时按滴答节拍推进；归零转绿",
+      "user_selected": false,
+      "frame_rmse": [
+        1.320195198059082,
+        1.2704602479934692,
+        1.2704602479934692,
+        1.3147320747375488,
+        1.3147320747375488,
+        1.3051868677139282,
+        1.3051868677139282,
+        1.2941091060638428
+      ],
+      "file": "03_审片/clips/M5.mp4",
+      "sha256": "f974b5fc213e507af6c9cdd8589058e201387aaf7d73b18776c8ea0be6797e04",
+      "stored_samples": 8
+    },
+    {
+      "id": "M6",
+      "title": "倒计时后起步",
+      "start_frame": 1330,
+      "frames": 242,
+      "start_seconds": 22.166666666666668,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        4,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        0
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 4,
+          "signal_state": 4,
+          "original_scene": "倒计时",
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M6/image-01.png",
+          "source_sha256": "819ea4cc7d969cb713f8ab8c57367203f01e52d99e35860920c722924eabd97b"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "signal_state": 3,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M6/image-02.png",
+          "source_sha256": "328f2dc396d73dde488c1e5ff44795a8e7339b7763089d23349381408ea8db99"
+        },
+        {
+          "index": 3,
+          "original_index": 3,
+          "signal_state": 3,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M6/image-03.png",
+          "source_sha256": "328f2dc396d73dde488c1e5ff44795a8e7339b7763089d23349381408ea8db99"
+        },
+        {
+          "index": 4,
+          "original_index": 2,
+          "signal_state": 2,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M6/image-04.png",
+          "source_sha256": "e6338fe0144a3fc0d77a593a142c5b28650c0efc53cdd269596dd09e2916a76a"
+        },
+        {
+          "index": 5,
+          "original_index": 2,
+          "signal_state": 2,
+          "original_scene": "倒计时",
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M6/image-05.png",
+          "source_sha256": "e6338fe0144a3fc0d77a593a142c5b28650c0efc53cdd269596dd09e2916a76a"
+        },
+        {
+          "index": 6,
+          "original_index": 1,
+          "signal_state": 1,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M6/image-06.png",
+          "source_sha256": "f00c64d5cbf39bbd1196114b6554cca8fc0693f911a6549fbcb9f6f970fcf17d"
+        },
+        {
+          "index": 7,
+          "original_index": 1,
+          "signal_state": 1,
+          "original_scene": "倒计时",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M6/image-07.png",
+          "source_sha256": "f00c64d5cbf39bbd1196114b6554cca8fc0693f911a6549fbcb9f6f970fcf17d"
+        },
+        {
+          "index": 8,
+          "original_index": 0,
+          "signal_state": 0,
+          "original_scene": "归零转绿",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M6/image-08.png",
+          "source_sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9"
+        }
+      ],
+      "source_version": "v23 倒计时修正",
+      "mode": "倒计时按滴答节拍推进；归零转绿",
+      "user_selected": false,
+      "frame_rmse": [
+        1.2941091060638428,
+        1.377880334854126,
+        1.377880334854126,
+        1.3875724077224731,
+        1.3875724077224731,
+        1.3598415851593018,
+        1.3598415851593018,
+        1.2255562543869019
+      ],
+      "file": "03_审片/clips/M6.mp4",
+      "sha256": "0789cf9a95d25826a74e1a126730e9ac69e32e9382204cd3813019a97b888288",
+      "stored_samples": 8
+    },
+    {
+      "id": "M7",
+      "title": "过街进入地铁",
+      "start_frame": 1572,
+      "frames": 242,
+      "start_seconds": 26.2,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M7-2",
+        "M7-3",
+        "M7-4",
+        "M7-5",
+        "M7-6",
+        "M7-7",
+        "M7-8",
+        "M8-1"
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 2,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M7/image-01.png",
+          "source_sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9",
+          "previous_scene": "M7",
+          "previous_slot": 2,
+          "original_scene": "M7"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M7/image-02.png",
+          "source_sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9",
+          "previous_scene": "M7",
+          "previous_slot": 3,
+          "original_scene": "M7"
+        },
+        {
+          "index": 3,
+          "original_index": 4,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M7/image-03.png",
+          "source_sha256": "3301b21dacdce1318ca7c48c2df82f18c71cdb780a4bb316ed71c8c0bd6445d9",
+          "previous_scene": "M7",
+          "previous_slot": 4,
+          "original_scene": "M7"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M7/image-04.png",
+          "source_sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+          "previous_scene": "M7",
+          "previous_slot": 5,
+          "original_scene": "M7"
+        },
+        {
+          "index": 5,
+          "original_index": 6,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M7/image-05.png",
+          "source_sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+          "previous_scene": "M7",
+          "previous_slot": 6,
+          "original_scene": "M7"
+        },
+        {
+          "index": 6,
+          "original_index": 7,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M7/image-06.png",
+          "source_sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+          "previous_scene": "M7",
+          "previous_slot": 7,
+          "original_scene": "M7"
+        },
+        {
+          "index": 7,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M7/image-07.png",
+          "source_sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+          "previous_scene": "M7",
+          "previous_slot": 8,
+          "original_scene": "M7"
+        },
+        {
+          "index": 8,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M7/image-08.png",
+          "source_sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+          "previous_scene": "M8",
+          "previous_slot": 1,
+          "original_scene": "M8"
+        }
+      ],
+      "source_version": "v21",
+      "mode": "删去 M2 首格后整体前移一格",
+      "user_selected": false,
+      "file": "03_审片/clips/M7.mp4",
+      "sha256": "fbfe58b6f292e2d1c94f9cbaf41fcb219cda289dc19cc3c322c5851d13760178",
+      "stored_samples": 8,
+      "frame_rmse": [
+        1.2255562543869019,
+        1.2255562543869019,
+        1.2255562543869019,
+        1.3706927299499512,
+        1.3706927299499512,
+        1.3706927299499512,
+        1.3706927299499512,
+        1.3706927299499512
+      ]
+    },
+    {
+      "id": "M8",
+      "title": "第一扶梯到闸机",
+      "start_frame": 1814,
+      "frames": 242,
+      "start_seconds": 30.233333333333334,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M8-2",
+        "M8-3",
+        "M8-4",
+        "M8-5",
+        "M8-6",
+        "M8-7",
+        "M8-8",
+        "M9-1"
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 2,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M8/image-01.png",
+          "source_sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+          "previous_scene": "M8",
+          "previous_slot": 2,
+          "original_scene": "M8"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M8/image-02.png",
+          "source_sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+          "previous_scene": "M8",
+          "previous_slot": 3,
+          "original_scene": "M8"
+        },
+        {
+          "index": 3,
+          "original_index": 4,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M8/image-03.png",
+          "source_sha256": "e41a0f8908eed0890b1a5dad4e8418aa92810447a028ace552e5a52b7a59f59e",
+          "previous_scene": "M8",
+          "previous_slot": 4,
+          "original_scene": "M8"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M8/image-04.png",
+          "source_sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+          "previous_scene": "M8",
+          "previous_slot": 5,
+          "original_scene": "M8"
+        },
+        {
+          "index": 5,
+          "original_index": 6,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M8/image-05.png",
+          "source_sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+          "previous_scene": "M8",
+          "previous_slot": 6,
+          "original_scene": "M8"
+        },
+        {
+          "index": 6,
+          "original_index": 7,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M8/image-06.png",
+          "source_sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+          "previous_scene": "M8",
+          "previous_slot": 7,
+          "original_scene": "M8"
+        },
+        {
+          "index": 7,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M8/image-07.png",
+          "source_sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+          "previous_scene": "M8",
+          "previous_slot": 8,
+          "original_scene": "M8"
+        },
+        {
+          "index": 8,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M8/image-08.png",
+          "source_sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+          "previous_scene": "M9",
+          "previous_slot": 1,
+          "original_scene": "M9"
+        }
+      ],
+      "source_version": "v21",
+      "mode": "删去 M2 首格后整体前移一格",
+      "user_selected": false,
+      "file": "03_审片/clips/M8.mp4",
+      "sha256": "d24ae6611f8f9a4b8e31e306d72b38c39fe90137e43cfe3cdf2f7476ed7b6d2c",
+      "stored_samples": 8,
+      "frame_rmse": [
+        1.3706927299499512,
+        1.3706927299499512,
+        1.3706927299499512,
+        1.501065731048584,
+        1.501065731048584,
+        1.501065731048584,
+        1.501065731048584,
+        1.501065731048584
+      ]
+    },
+    {
+      "id": "M9",
+      "title": "刷卡进入付费区",
+      "start_frame": 2056,
+      "frames": 242,
+      "start_seconds": 34.266666666666666,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M9-2",
+        "M9-3",
+        "M9-4",
+        "M9-5",
+        "M9-6",
+        "M9-7",
+        "M9-8",
+        "M10-1"
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 2,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M9/image-01.png",
+          "source_sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+          "previous_scene": "M9",
+          "previous_slot": 2,
+          "original_scene": "M9"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M9/image-02.png",
+          "source_sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+          "previous_scene": "M9",
+          "previous_slot": 3,
+          "original_scene": "M9"
+        },
+        {
+          "index": 3,
+          "original_index": 4,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M9/image-03.png",
+          "source_sha256": "b8a2507364d2be0536aa907976b0756742cff37ca7764bd9e69cc31839c9b45a",
+          "previous_scene": "M9",
+          "previous_slot": 4,
+          "original_scene": "M9"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M9/image-04.png",
+          "source_sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+          "previous_scene": "M9",
+          "previous_slot": 5,
+          "original_scene": "M9"
+        },
+        {
+          "index": 5,
+          "original_index": 6,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M9/image-05.png",
+          "source_sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+          "previous_scene": "M9",
+          "previous_slot": 6,
+          "original_scene": "M9"
+        },
+        {
+          "index": 6,
+          "original_index": 7,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M9/image-06.png",
+          "source_sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+          "previous_scene": "M9",
+          "previous_slot": 7,
+          "original_scene": "M9"
+        },
+        {
+          "index": 7,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M9/image-07.png",
+          "source_sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+          "previous_scene": "M9",
+          "previous_slot": 8,
+          "original_scene": "M9"
+        },
+        {
+          "index": 8,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M9/image-08.png",
+          "source_sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+          "previous_scene": "M10",
+          "previous_slot": 1,
+          "original_scene": "M10"
+        }
+      ],
+      "source_version": "v21",
+      "mode": "删去 M2 首格后整体前移一格",
+      "user_selected": false,
+      "file": "03_审片/clips/M9.mp4",
+      "sha256": "9f644f732695c3d36b4139fe7322f7dc8672139cdd3082dd9e9d3b88c53331f2",
+      "stored_samples": 8,
+      "frame_rmse": [
+        1.501065731048584,
+        1.501065731048584,
+        1.501065731048584,
+        1.420549750328064,
+        1.420549750328064,
+        1.420549750328064,
+        1.420549750328064,
+        1.420549750328064
+      ]
+    },
+    {
+      "id": "M10",
+      "title": "第二扶梯到站台",
+      "start_frame": 2298,
+      "frames": 242,
+      "start_seconds": 38.3,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M10-2",
+        "M10-3",
+        "M10-4",
+        "M10-5",
+        "M10-6",
+        "M10-7",
+        "M10-8",
+        "M11-1"
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 2,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M10/image-01.png",
+          "source_sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+          "previous_scene": "M10",
+          "previous_slot": 2,
+          "original_scene": "M10"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M10/image-02.png",
+          "source_sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+          "previous_scene": "M10",
+          "previous_slot": 3,
+          "original_scene": "M10"
+        },
+        {
+          "index": 3,
+          "original_index": 4,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M10/image-03.png",
+          "source_sha256": "c1ad25fb1147839fe1ebafe6e99942aa176990c8505a76eb3d5aa4c458992ed1",
+          "previous_scene": "M10",
+          "previous_slot": 4,
+          "original_scene": "M10"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M10/image-04.png",
+          "source_sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+          "previous_scene": "M10",
+          "previous_slot": 5,
+          "original_scene": "M10"
+        },
+        {
+          "index": 5,
+          "original_index": 6,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M10/image-05.png",
+          "source_sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+          "previous_scene": "M10",
+          "previous_slot": 6,
+          "original_scene": "M10"
+        },
+        {
+          "index": 6,
+          "original_index": 7,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M10/image-06.png",
+          "source_sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+          "previous_scene": "M10",
+          "previous_slot": 7,
+          "original_scene": "M10"
+        },
+        {
+          "index": 7,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M10/image-07.png",
+          "source_sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+          "previous_scene": "M10",
+          "previous_slot": 8,
+          "original_scene": "M10"
+        },
+        {
+          "index": 8,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M10/image-08.png",
+          "source_sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+          "previous_scene": "M11",
+          "previous_slot": 1,
+          "original_scene": "M11"
+        }
+      ],
+      "source_version": "v21",
+      "mode": "删去 M2 首格后整体前移一格",
+      "user_selected": false,
+      "file": "03_审片/clips/M10.mp4",
+      "sha256": "9385244551352b89b548010c53bd159d022a12ae8b1764958cc984f723fcbe40",
+      "stored_samples": 8,
+      "frame_rmse": [
+        1.420549750328064,
+        1.420549750328064,
+        1.420549750328064,
+        1.2013622522354126,
+        1.2013622522354126,
+        1.2013622522354126,
+        1.2013622522354126,
+        1.2013622522354126
+      ]
+    },
+    {
+      "id": "M11",
+      "title": "空轨站台等待",
+      "start_frame": 2540,
+      "frames": 242,
+      "start_seconds": 42.333333333333336,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M11-2",
+        "M11-3",
+        "M11-4",
+        "M11-5",
+        "M11-6",
+        "M11-7",
+        "M11-8",
+        "M12-1"
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 2,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M11/image-01.png",
+          "source_sha256": "86e732039df0c949d8e622559827708f2a8358d0c5282da106617814913a0d05",
+          "previous_scene": "M11",
+          "previous_slot": 2,
+          "original_scene": "M11"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M11/image-02.png",
+          "source_sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31",
+          "previous_scene": "M11",
+          "previous_slot": 3,
+          "original_scene": "M11"
+        },
+        {
+          "index": 3,
+          "original_index": 4,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M11/image-03.png",
+          "source_sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31",
+          "previous_scene": "M11",
+          "previous_slot": 4,
+          "original_scene": "M11"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M11/image-04.png",
+          "source_sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31",
+          "previous_scene": "M11",
+          "previous_slot": 5,
+          "original_scene": "M11"
+        },
+        {
+          "index": 5,
+          "original_index": 6,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M11/image-05.png",
+          "source_sha256": "f769c7a228e2b98d2515160c3b1e1e0a1e69ed00cae0d2bc6c69182b34b4df31",
+          "previous_scene": "M11",
+          "previous_slot": 6,
+          "original_scene": "M11"
+        },
+        {
+          "index": 6,
+          "original_index": 7,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M11/image-06.png",
+          "source_sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+          "previous_scene": "M11",
+          "previous_slot": 7,
+          "original_scene": "M11"
+        },
+        {
+          "index": 7,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M11/image-07.png",
+          "source_sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+          "previous_scene": "M11",
+          "previous_slot": 8,
+          "original_scene": "M11"
+        },
+        {
+          "index": 8,
+          "original_index": 1,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M11/image-08.png",
+          "source_sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+          "previous_scene": "M12",
+          "previous_slot": 1,
+          "original_scene": "M12"
+        }
+      ],
+      "source_version": "v21",
+      "mode": "删去 M2 首格后整体前移一格",
+      "user_selected": false,
+      "file": "03_审片/clips/M11.mp4",
+      "sha256": "2a7395550de827b2541eef473205fb5fd3ae3f31d22caa6199d0b51979fd4f2c",
+      "stored_samples": 8,
+      "frame_rmse": [
+        1.2013622522354126,
+        1.2384001016616821,
+        1.2384001016616821,
+        1.2384001016616821,
+        1.2384001016616821,
+        1.24029541015625,
+        1.24029541015625,
+        1.24029541015625
+      ]
+    },
+    {
+      "id": "M12",
+      "title": "开门与开始登车",
+      "start_frame": 2782,
+      "frames": 242,
+      "start_seconds": 46.36666666666667,
+      "duration_seconds": 4.033333333333333,
+      "mapping": [
+        "M12-2",
+        "M12-3",
+        "M12-4",
+        "M12-5",
+        "M12-6",
+        "M12-7",
+        "M12-8",
+        "M12-8"
+      ],
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 2,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M12/image-01.png",
+          "source_sha256": "998e912ae510da8263ac65a785e8ba05106e33328be5e84b10146c4bce221aab",
+          "previous_scene": "M12",
+          "previous_slot": 2,
+          "original_scene": "M12"
+        },
+        {
+          "index": 2,
+          "original_index": 3,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M12/image-02.png",
+          "source_sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b",
+          "previous_scene": "M12",
+          "previous_slot": 3,
+          "original_scene": "M12"
+        },
+        {
+          "index": 3,
+          "original_index": 4,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M12/image-03.png",
+          "source_sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b",
+          "previous_scene": "M12",
+          "previous_slot": 4,
+          "original_scene": "M12"
+        },
+        {
+          "index": 4,
+          "original_index": 5,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M12/image-04.png",
+          "source_sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b",
+          "previous_scene": "M12",
+          "previous_slot": 5,
+          "original_scene": "M12"
+        },
+        {
+          "index": 5,
+          "original_index": 6,
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M12/image-05.png",
+          "source_sha256": "16fbf99ca95b36aa6045c34685679d84ff9f10a4df87fbbb0d01392c15b2c96b",
+          "previous_scene": "M12",
+          "previous_slot": 6,
+          "original_scene": "M12"
+        },
+        {
+          "index": 6,
+          "original_index": 7,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M12/image-06.png",
+          "source_sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde",
+          "previous_scene": "M12",
+          "previous_slot": 7,
+          "original_scene": "M12"
+        },
+        {
+          "index": 7,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M12/image-07.png",
+          "source_sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde",
+          "previous_scene": "M12",
+          "previous_slot": 8,
+          "original_scene": "M12"
+        },
+        {
+          "index": 8,
+          "original_index": 8,
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M12/image-08.png",
+          "source_sha256": "c53adaaa02950da8d8791c991345b01653a202b6d09bce8e2d8d906cd1c26bde",
+          "previous_scene": "M12",
+          "previous_slot": 8,
+          "original_scene": "M12"
+        }
+      ],
+      "source_version": "v21",
+      "mode": "删去 M2 首格后整体前移一格",
+      "user_selected": false,
+      "file": "03_审片/clips/M12.mp4",
+      "sha256": "ea0ac0a00916a803ef48639e87696eb5e4597a23e10e142e9633da56bba7e55a",
+      "stored_samples": 8,
+      "frame_rmse": [
+        1.24029541015625,
+        1.2852357625961304,
+        1.2852357625961304,
+        1.2852357625961304,
+        1.2852357625961304,
+        1.2497022151947021,
+        1.2497022151947021,
+        1.2497022151947021
+      ]
+    },
+    {
+      "id": "M13",
+      "title": "进车握扶手后撤远",
+      "start_frame": 3024,
+      "frames": 242,
+      "start_seconds": 50.4,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v10",
+      "mode": "原版已有视频",
+      "user_selected": false,
+      "file": "03_审片/clips/M13.mp4",
+      "sha256": "c9b87972c980427bb67e88ac5ba1b5ad7fc9d98d8d394c845ebe54344ca098ae",
+      "stored_samples": 242
+    },
+    {
+      "id": "M14",
+      "title": "进车后驶离，拉远为线路黄点",
+      "start_frame": 3266,
+      "frames": 242,
+      "start_seconds": 54.43333333333333,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M14.mp4",
+      "sha256": "082b20eb2eed452b9807919967798d8fc9ea228a44e56b0789b484be39d56107",
+      "stored_samples": 242
+    },
+    {
+      "id": "M15",
+      "title": "远景：局部黄点与局部线路",
+      "start_frame": 3508,
+      "frames": 242,
+      "start_seconds": 58.46666666666667,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M15.mp4",
+      "sha256": "bc462bcf5fc0543c470e6193c3373d5b4c74e590327df70f6632c15516fe799b",
+      "stored_samples": 242
+    },
+    {
+      "id": "M16",
+      "title": "远景：小芯片长出线路与触角",
+      "start_frame": 3750,
+      "frames": 242,
+      "start_seconds": 62.5,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M16.mp4",
+      "sha256": "ff04c6ab83f9509139de69f363255cc0e54d98d087dda2985ebe07ee08b13620",
+      "stored_samples": 242
+    },
+    {
+      "id": "M17",
+      "title": "缓慢推进：持续放大芯片内部细节",
+      "start_frame": 3992,
+      "frames": 242,
+      "start_seconds": 66.53333333333333,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M17.mp4",
+      "sha256": "9b67fcdd6302479ebe97d1c7d6a79c8eb32caac9e19e03f5fe08f441779958a3",
+      "stored_samples": 242
+    },
+    {
+      "id": "M18",
+      "title": "拉远揭示流水线上的黄色芯片",
+      "start_frame": 4234,
+      "frames": 242,
+      "start_seconds": 70.56666666666666,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M18.mp4",
+      "sha256": "ee6d8623ca1ea2db82f5e6a3858657db2de6a9b119618919bf270d8d99f90435",
+      "stored_samples": 242
+    },
+    {
+      "id": "M19",
+      "title": "劳动动作化为指令",
+      "start_frame": 4476,
+      "frames": 242,
+      "start_seconds": 74.6,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M19.mp4",
+      "sha256": "5e86bb18f58ca66021998cf9a136e4602da68ab36c84c44b0bfeadd67c8864a4",
+      "stored_samples": 242
+    },
+    {
+      "id": "M20",
+      "title": "指令进入通信网络",
+      "start_frame": 4718,
+      "frames": 242,
+      "start_seconds": 78.63333333333334,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M20.mp4",
+      "sha256": "0e1a4590c938284b203d15f4d4e7cef473e00fdea82e19ee7243756fad849a35",
+      "stored_samples": 242
+    },
+    {
+      "id": "M21",
+      "title": "语义关系建立",
+      "start_frame": 4960,
+      "frames": 242,
+      "start_seconds": 82.66666666666667,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M21.mp4",
+      "sha256": "387bdc3caf584351baf678614b3113212d6d73e17c839aae1b6a155b5033b84e",
+      "stored_samples": 242
+    },
+    {
+      "id": "M22",
+      "title": "语义规整为推送矩阵",
+      "start_frame": 5202,
+      "frames": 242,
+      "start_seconds": 86.7,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M22.mp4",
+      "sha256": "c9b8f466e2d72ba4f77dd1c5428de56338e6d1756fc9bb51cc6a0d0c974d853d",
+      "stored_samples": 242
+    },
+    {
+      "id": "M23",
+      "title": "矩阵生成推荐卡片",
+      "start_frame": 5444,
+      "frames": 242,
+      "start_seconds": 90.73333333333333,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M23.mp4",
+      "sha256": "8fdd9faa52619a7bfef75d9fb99fd20feda6673b1652bfc7fa0a68554ae200ad",
+      "stored_samples": 242
+    },
+    {
+      "id": "M24",
+      "title": "推送中看到硅晶之梦",
+      "start_frame": 5686,
+      "frames": 242,
+      "start_seconds": 94.76666666666667,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M24.mp4",
+      "sha256": "b4cc61774fce382c8f3e165d4945894ef4e3862049689a60842e08e925da3c3a",
+      "stored_samples": 242
+    },
+    {
+      "id": "M25",
+      "title": "回到房间移动鼠标",
+      "start_frame": 5928,
+      "frames": 242,
+      "start_seconds": 98.8,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/M25.mp4",
+      "sha256": "377a4ab9c024ed863c6141121487aed84419d9fd280b51cc1b12b7b4ce8b787d",
+      "stored_samples": 242
+    },
+    {
+      "id": "M26",
+      "title": "打开硅晶之梦",
+      "start_frame": 6170,
+      "frames": 242,
+      "start_seconds": 102.83333333333333,
+      "duration_seconds": 4.033333333333333,
+      "source_version": "v22",
+      "mode": "定格 M25 末帧；最后一秒鼠标点击并黑屏",
+      "user_selected": false,
+      "file": "03_审片/clips/M26.mp4",
+      "sha256": "4b1ebd6729f5f06d7961e11e7d732ea37d8884688d7066205c704743b0f432f0",
+      "stored_samples": 8,
+      "slots": [
+        {
+          "index": 1,
+          "original_index": 242,
+          "original_scene": "M25",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M26/image-01.png",
+          "source_sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+        },
+        {
+          "index": 2,
+          "original_index": 242,
+          "original_scene": "M25",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M26/image-02.png",
+          "source_sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+        },
+        {
+          "index": 3,
+          "original_index": 242,
+          "original_scene": "M25",
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M26/image-03.png",
+          "source_sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+        },
+        {
+          "index": 4,
+          "original_index": 242,
+          "original_scene": "M25",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M26/image-04.png",
+          "source_sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+        },
+        {
+          "index": 5,
+          "original_index": 242,
+          "original_scene": "M25",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M26/image-05.png",
+          "source_sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+        },
+        {
+          "index": 6,
+          "original_index": 242,
+          "original_scene": "M25",
+          "hold_frames": 31,
+          "file": "02_关键帧/定格画面/M26/image-06.png",
+          "source_sha256": "e94abe79eb39b55523d794a7adc1bfc3342d14154f117adf35d6d278491222e5"
+        },
+        {
+          "index": 7,
+          "original_index": 0,
+          "original_scene": "黑屏",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M26/image-07.png",
+          "source_sha256": "3303057e19047fe994a3ce5a6a79f573a34e4de1e5d3654b6c1d7b1c8abd67f8"
+        },
+        {
+          "index": 8,
+          "original_index": 0,
+          "original_scene": "黑屏",
+          "hold_frames": 30,
+          "file": "02_关键帧/定格画面/M26/image-08.png",
+          "source_sha256": "3303057e19047fe994a3ce5a6a79f573a34e4de1e5d3654b6c1d7b1c8abd67f8"
+        }
+      ],
+      "mapping": [
+        "M25末帧",
+        "M25末帧",
+        "M25末帧",
+        "M25末帧",
+        "M25末帧",
+        "M25末帧",
+        "黑屏",
+        "黑屏"
+      ],
+      "frame_rmse": [
+        0.3743334710597992,
+        0.3743334710597992,
+        0.3743334710597992,
+        0.3743334710597992,
+        0.3743334710597992,
+        0.3743334710597992,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "END",
+      "title": "终章",
+      "start_frame": 6412,
+      "frames": 120,
+      "start_seconds": 106.86666666666666,
+      "duration_seconds": 2.0,
+      "source_version": "v16",
+      "mode": "原已通过视频原样保留",
+      "user_selected": false,
+      "file": "03_审片/clips/END.mp4",
+      "sha256": "037c62a8a56f3521fed2697817f7994b9946a456fc612f28d7ed6fccadf10078",
+      "stored_samples": 120
+    }
+  ]
+}
